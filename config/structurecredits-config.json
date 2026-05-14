@@ -98,6 +98,17 @@
     "additionalstructures:stone_rock_3",
     "additionalstructures:cobblestone_rock_2",
     "additionalstructures:bush_2",
-    "bettermineshafts:mineshaft_overgrown"
+    "bettermineshafts:mineshaft_overgrown",
+    "bettermineshafts:mineshaft_oak",
+    "bettermineshafts:mineshaft_mushroom",
+    "dungeons_arise:merchant_campsite",
+    "ctov:large/village_plains",
+    "simply_houses:plains_mansion",
+    "betterdungeons:spider_dungeon",
+    "loot_n_explore:frost_monolith",
+    "wetlands:large_mechanism",
+    "wetlands:big_pipes",
+    "wetlands:medium_cisterns",
+    "wetlands:large_cisterns"
   ]
 }
