@@ -1,0 +1,1 @@
+{"jarName":"cullleaves-fabric-3.2.0.jar","modId":"cullleaves","version":"3.2.0","mixinConfigs":["cullleaves.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.4.1-fabric.jar","modId":"midnightlib","version":"1.4.1","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

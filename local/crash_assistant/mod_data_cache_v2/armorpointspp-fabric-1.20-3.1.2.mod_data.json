@@ -1,0 +1,1 @@
+{"jarName":"armorpointspp-fabric-1.20-3.1.2.jar","modId":"armorpointspp","version":"3.1.2","mixinConfigs":["armorpointspp.mixins.json"],"jarJarMods":[{"jarName":"fiber-0.23.0-SNAPSHOT.jar","modId":"fiber","version":"0.23.0-2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

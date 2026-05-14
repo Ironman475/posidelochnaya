@@ -1,0 +1,1 @@
+{"jarName":"loadingscreentips-1.3.1.jar","modId":"loadingscreentips","version":"1.3.1","mixinConfigs":["loadingscreentips.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.4.1-fabric.jar","modId":"midnightlib","version":"1.4.1","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

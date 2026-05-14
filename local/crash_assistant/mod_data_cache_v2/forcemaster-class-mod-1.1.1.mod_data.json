@@ -1,0 +1,1 @@
+{"jarName":"forcemaster-class-mod-1.1.1.jar","modId":"forcemaster_rpg","version":"1.1.1","mixinConfigs":["forcemaster-class-mod.mixins.json"],"jarJarMods":[{"jarName":"TinyConfig-2.3.2.jar","modId":"com_github_zsoltmolnarrr_tinyconfig","version":"2.3.2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

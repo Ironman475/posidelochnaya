@@ -1,0 +1,33 @@
+[2026-05-14 19:18:20.887] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2026-05-14 19:18:20.891] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\local\crash_assistant\28580_1778775489362_app.jar, -parentPID, 28580, -parentStarted, 1778775489362, -platform, FABRIC, -loaderJarName, fabric-loader-0.18.5.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\mods\CrashAssistant-fabric-1.19.2-1.21.4-1.9.7.jar, -log4jApi, C:\Users\Dark\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar, -log4jCore, C:\Users\Dark\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar, -googleGson, C:\Users\Dark\curseforge\minecraft\Install\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar, -commonIo, C:\Users\Dark\curseforge\minecraft\Install\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar, -parentXms, 256m, -parentXmx, 4096m, -systemRAM, 15.6g, -processor, MTN0aCBHZW4gSW50ZWwoUikgQ29yZShUTSkgaTctMTM2MjBI, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpJTlRFR1JBVEVEIDogSW50ZWwoUikgVUhEIEdyYXBoaWNzCkRFRElDQVRFRCA6IE5WSURJQSBHZUZvcmNlIFJUWCA0MDUwIExhcHRvcCBHUFUK, -recursiveStart]
+[2026-05-14 19:18:20.892] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)
+[2026-05-14 19:18:20.892] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-fabric-1.19.2-1.21.4-1.9.7.jar
+[2026-05-14 19:18:20.893] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 28580
+[2026-05-14 19:18:20.893] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1778775489362
+[2026-05-14 19:18:20.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FABRIC
+[2026-05-14 19:18:20.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fabric-loader-0.18.5.jar
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 256m
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 4096m
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 15.6g
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: 13th Gen Intel(R) Core(TM) i7-13620H
+[2026-05-14 19:18:20.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+INTEGRATED : Intel(R) UHD Graphics
+DEDICATED : NVIDIA GeForce RTX 4050 Laptop GPU
+
+[2026-05-14 19:18:20.896] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 11
+[2026-05-14 19:18:20.898] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\Dark\curseforge\minecraft\Install\java\java-runtime-gamma\bin\javaw.exe
+[2026-05-14 19:18:20.900] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.8+7
+[2026-05-14 19:18:20.931] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 28580 to stop.
+[2026-05-14 19:19:04.724] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+[2026-05-14 19:52:29.241] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "28580" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2026-05-14 19:52:29.397] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\logs\latest.log
+[2026-05-14 19:52:29.447] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\logs\crash_assistant\crash_assistant_app.log
+[2026-05-14 19:52:29.448] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2026-05-14 19:52:29.448] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: true
+[2026-05-14 19:52:29.449] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: true
+[2026-05-14 19:52:29.451] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.

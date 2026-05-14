@@ -1,0 +1,1 @@
+{"jarName":"Apugli-2.10.4+1.20.1-fabric.jar","modId":"apugli","version":"2.10.4+1.20.1-fabric","mixinConfigs":["apugli.fabric.mixins.json","apugli.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.4.1-fabric.jar","modId":"midnightlib","version":"1.4.1","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

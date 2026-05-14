@@ -1,0 +1,958 @@
+Mods count: 382
+ 
+jar name                                                                     | mod id (isMCreator)                                          | mixin configs
+fabric-loader-0.18.5.jar (modloader)                                         | fabric                                                       | 
+1.20-jains-desserts-2.0.0.jar                                                | jains_deserts                                                | 
+1.20-more-potions-2.0.0.jar                                                  | more_potions                                                 | more_potions.mixins.json
+1.20.1-convenient-hitboxes-1.0.5.jar                                         | convenient_hitboxes                                          | convenient_hitboxes.mixins.json
+1.20.1-stunningstatues-1.0.2.jar                                             | stunningstatues                                              | 
+1.20.1-throwable-fluids-3.0.0.jar                                            | throwablefluids                                              | 
+[fabric]ctov-3.4.14.jar                                                      | ctov                                                         | ctov-common.mixins.json, ctov.mixins.json
+aaa_particles-1.20.1-1.4.8-fabric.jar                                        | aaa_particles                                                | aaa_particles-common.mixins.json, aaa_particles.mixins.json
+    /META-INF/jars/architectury-fabric-9.2.14.jar                            | architectury                                                 | architectury.mixins.json, architectury-common.mixins.json
+Acclaimed-Origins-1.20.x-Fabric.jar                                          | acclaimed_origins                                            | 
+AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar                             | additionalstructures                                         | additionalstructures.mixins.json
+adventurez-1.4.20.jar                                                        | adventurez                                                   | adventurez.mixins.json
+airchidori-fabric-1.20.1-1.0.9.jar                                           | airchidori                                                   | 
+alexsmobsfabric-1.20.1-1.2.1.jar                                             | alexsmobs                                                    | alexsmobs.mixins.json
+alloy-forgery-2.1.2+1.20.jar                                                 | alloy_forgery                                                | alloy-forgery.mixins.json
+    /META-INF/jars/owo-sentinel-0.11.1+1.20.jar                              | owo-sentinel                                                 | 
+AltOriginGui-fabric-1.20.1-1.1.1.jar                                         | altorigingui                                                 | altorigingui.mixins.json, altorigingui.fabric.mixins.json
+amendments-1.20-1.2.19-fabric.jar                                            | amendments                                                   | amendments-common.mixins.json, amendments.mixins.json
+amethyst_core-1.5.0+1.20.1.jar                                               | amethyst_core                                                | amethyst_core.mixins.json
+    /META-INF/jars/common-protection-api-1.0.0.jar                           | common-protection-api                                        | 
+amethyst_imbuement-1.20.1-19.8.jar                                           | amethyst_imbuement                                           | amethyst_imbuement.mixins.json
+    /META-INF/jars/conditional-mixin-v0.3.2.jar                              | conditional-mixin                                            | 
+    /META-INF/jars/should_i_hit_that-0.1.2+1.20.1.jar                        | should_i_hit_that                                            | 
+        /META-INF/jars/common-protection-api-1.0.0.jar                       | common-protection-api                                        | 
+        /META-INF/jars/PlayerAbilityLib-1.8.0.jar                            | playerabilitylib                                             | mixins.playerabilitylib.common.json
+    /META-INF/jars/structurized_reborn-1.20.1-01.jar                         | structurized-reborn                                          | structurized.mixins.json
+another_furniture-fabric-1.20.1-3.0.5.jar                                    | another_furniture                                            | another_furniture-common.mixins.json, another_furniture.mixins.json
+apocalypse_origins-0.4.66-1.20.X.jar                                         | apocalypse_origins                                           | apocalypse_origins.mixins.json
+appleskin-fabric-mc1.20.1-2.5.1.jar                                          | appleskin                                                    | appleskin.mixins.json
+    /META-INF/jars/cloth-config-fabric-11.0.99.jar                           | cloth-config                                                 | 
+        /META-INF/jars/basic-math-0.6.1.jar                                  | cloth-basic-math                                             | 
+Apugli-2.10.4+1.20.1-fabric.jar                                              | apugli                                                       | apugli.fabric.mixins.json, apugli.mixins.json
+    /META-INF/jars/midnightlib-1.4.1-fabric.jar                              | midnightlib                                                  | midnightlib.mixins.json
+aquachidori-fabric-1.20.1-1.0.7.jar                                          | aquachidori                                                  | 
+Aquamirae 6.jar                                                              | aquamirae                                                    | aquamirae.mixins.json
+archeologyplus-1.0.2.jar                                                     | archeologyplus                                               | archeologyplus.mixins.json
+archers-1.2.5+1.20.1.jar                                                     | archers                                                      | archers.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/ranged-weapon-api-1.1.0+1.20.1.jar                        | ranged_weapon_api                                            | ranged_weapon_api.mixins.json
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+architectury-9.2.14-fabric.jar                                               | architectury                                                 | architectury.mixins.json, architectury-common.mixins.json
+armorpointspp-fabric-1.20-3.1.2.jar                                          | armorpointspp                                                | armorpointspp.mixins.json
+    /META-INF/jars/fiber-0.23.0-SNAPSHOT.jar                                 | fiber                                                        | 
+armorstandarms-fabric-1.20.1-1.0.0.jar                                       | armorstandarms                                               | 
+armourersworkshop-fabric-1.20.1-2.1.3.jar                                    | armourers_workshop                                           | armourersworkshop-compatibility-fabric-mixins.json, armourersworkshop-fabric-mixins.json, armourersworkshop-compatibility-mixins.json, armourersworkshop-mixins.json
+    /META-INF/jars/core-3.6.5.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/toml-3.6.5.jar                                            | com_electronwill_night-config_toml                           | 
+artifacts-fabric-9.5.15.jar                                                  | artifacts                                                    | mixins.artifacts.fabric.json, mixins.artifacts.common.json
+    /META-INF/jars/cardinal-components-base-5.2.2.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.2.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+    /META-INF/jars/expandability-fabric-9.0.4.jar                            | expandability                                                | expandability.mixins.json, expandability-common.mixins.json
+    /META-INF/jars/step-height-entity-attribute-v1.2.0.jar                   | step-height-entity-attribute                                 | stepheightentityattribute.mixins.json
+aspects-1.0.9-1.20.x.jar                                                     | aspects                                                      | aspects.mixins.json
+athena-fabric-1.20.1-3.1.2.jar                                               | athena                                                       | athena.mixins.json
+AttributeFix-Fabric-1.20.1-21.0.4.jar                                        | attributefix                                                 | attributefix.mixins.json
+audioplayer-fabric-1.20.1-1.8.9.jar                                          | audioplayer                                                  | audioplayer.mixins.json
+    /META-INF/jars/admiral-0.4.4+1.20.1+fabric.jar                           | admiral                                                      | 
+    /META-INF/jars/fabric-api-base-0.4.29+b04edc7a82.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-command-api-v2-2.2.11+b3afc78b82.jar               | fabric-command-api-v2                                        | fabric-command-api-v2.mixins.json, fabric-command-api-v2.client.mixins.json
+autotag-2.0.2+1.20.jar                                                       | autotag-convention                                           | 
+    /META-INF/jars/autotag-api-2.0.2+1.20.jar                                | autotag                                                      | autotag.mixins.json
+azure-paxels-1.20.2-1.0.11.jar                                               | azure-paxels                                                 | azure-paxels.mixins.json
+azurelib-fabric-1.20.1-3.0.8.jar                                             | azurelib                                                     | azurelib.fabric.mixins.json, azurelib.mixins.json
+azurelibarmor-fabric-1.20.1-2.0.14.jar                                       | azurelibarmor                                                | azurelibarmor.mixins.json, azurelibarmor.fabric.mixins.json
+badpackets-fabric-0.4.3.jar                                                  | badpackets                                                   | badpackets.mixins.json
+balm-fabric-1.20.1-7.3.31.jar                                                | balm                                                         | balm.mixins.json
+    /META-INF/jars/kuma-api-fabric-20.1.10+1.20.1.jar                        | kuma_api                                                     | kuma_api.fabric.mixins.json, kuma_api.mixins.json
+basicstorage-1.0.5+1.20.1.jar                                                | basic-storage                                                | basic-storage.mixins.json, basic-storage.client.mixins.json
+basicweapons-1.2.5+1.20.1.jar                                                | basicweapons                                                 | basicweapons.mixins.json, basicweapons.client.mixins.json
+batsgalore-fabric-1.20.1-1.2.3.jar                                           | batsgalore                                                   | batsgalore.mixins.json, regutils-av5hvsz-com-nyfaria-batsgalore-registration.mixins.json
+    /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                       | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+beautify-1.2.0+1.20.1.jar                                                    | beautify                                                     | beautify.mixins.json
+bedspreads-fabric-6.3.0+1.20.1.jar                                           | bedspreads                                                   | bedspreads.mixins.json
+berserker-class-mod-1.1.0.jar                                                | berserker-rpg                                                | berserker-class-mod.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+bestpick-1.0.0+1.20.1.jar                                                    | bestpick                                                     | 
+BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar                                | betteradvancements                                           | betteradvancements.mixins.json
+bettercombat-fabric-1.8.6+1.20.1.jar                                         | bettercombat                                                 | bettercombat.mixins.json, bettercombat-fabric.mixins.json
+BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar                         | bcc                                                          | bcc.mixins.json, bcc.fabric.mixins.json
+betterloot-1.0.0+mc1.20.1.jar                                                | betterloot                                                   | 
+BetterThirdPerson-Fabric-1.20-1.9.0.jar                                      | betterthirdperson                                            | betterthirdperson.mixins.json
+bettervillage-fabric-1.20.1-3.3.1.jar                                        | bettervillage                                                | bettervillage.mixins.json
+BHMenu-Fabric-1.20.1-2.4.1.jar                                               | bhmenu                                                       | bhmenu.mixins.json
+Bookshelf-Fabric-1.20.1-20.2.13.jar                                          | bookshelf                                                    | bookshelf.fabric.mixins.json, bookshelf.common.mixins.json
+bwncr-fabric-1.20.1-3.17.2.jar                                               | bwncr                                                        | bwncr.mixins.json
+cardinal-components-api-5.2.3.jar                                            | cardinal-components                                          | 
+    /META-INF/jars/cardinal-components-base-5.2.3.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-block-5.2.3.jar                       | cardinal-components-block                                    | mixins.cardinal_components_block.json
+    /META-INF/jars/cardinal-components-chunk-5.2.3.jar                       | cardinal-components-chunk                                    | mixins.cardinal_components_chunk.json
+    /META-INF/jars/cardinal-components-entity-5.2.3.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+    /META-INF/jars/cardinal-components-item-5.2.3.jar                        | cardinal-components-item                                     | mixins.cardinal_components_item.json
+    /META-INF/jars/cardinal-components-level-5.2.3.jar                       | cardinal-components-level                                    | mixins.cardinal_components_level.json
+    /META-INF/jars/cardinal-components-scoreboard-5.2.3.jar                  | cardinal-components-scoreboard                               | mixins.cardinal_components_scoreboard.json
+    /META-INF/jars/cardinal-components-world-5.2.3.jar                       | cardinal-components-world                                    | mixins.cardinal_components_world.json
+carrasconlib-fabric-1.20.1-0.1.jar                                           | carrasconlib                                                 | carrasconlib.mixins.json
+Chunky-1.3.146.jar                                                           | chunky                                                       | chunky.mixins.json
+citadel-1.20.1-1.0.0.jar                                                     | citadel                                                      | citadel.mixins.json
+clickadv-fabric-1.20.1-3.8.jar                                               | clickadv                                                     | clickadv.mixins.json
+cloth-config-11.1.136-fabric.jar                                             | cloth-config                                                 | 
+    /META-INF/jars/basic-math-0.6.1.jar                                      | cloth-basic-math                                             | 
+cloth-config-5.3.58-fabric.jar                                               | cloth-config2                                                | 
+    /META-INF/jars/basic-math-0.6.0.jar                                      | cloth-basic-math                                             | 
+Clumps-fabric-1.20.1-12.0.0.4.jar                                            | clumps                                                       | clumps.mixins.json
+clutter-1.20-0.6.1.jar                                                       | clutter                                                      | clutter.mixins.json
+cobweb-fabric-1.20.1-1.0.1.jar                                               | cobweb                                                       | cobweb.mixins.json, cobweb.fabric.mixins.json
+collective-1.20.1-8.22.jar                                                   | collective                                                   | collective_fabric.crop.mixins.json, collective_fabric.mixins.json, collective_forge.mixins.json
+combatroll-fabric-1.3.3+1.20.1.jar                                           | combatroll                                                   | combatroll.mixins.json
+common-networking-fabric-1.0.5-1.20.1.jar                                    | commonnetworking                                             | 
+CompletionistsIndex-v8.0.0-1.20.1-Fabric.jar                                 | completionistsindex                                          | 
+compressedblocks-fabric-1.20.2-1.5.0.jar                                     | compressedblocks                                             | 
+Configurable-2.2.3-fabric-yarn+1.20.1.jar                                    | configurable                                                 | configurable.mixins.json, configurable-client.mixins.json
+configured-fabric-1.20.1-2.2.3.jar                                           | configured                                                   | configured.common.mixins.json, configured.fabric.mixins.json
+    /META-INF/jars/core-3.6.6.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/toml-3.6.6.jar                                            | com_electronwill_night-config_toml                           | 
+consularsorigins-1.11.0.jar                                                  | consularsorigins                                             | consularsorigins.mixins.json
+Controlling-fabric-1.20.1-12.0.2.jar                                         | controlling                                                  | controlling.mixins.json, controlling.fabric.mixins.json
+CopperandTuffBackport-1.2.jar                                                | copperandtuffbackport                                        | 
+copycats-3.0.7+mc.1.20.1-fabric.jar                                          | copycats                                                     | copycats-fabric.mixins.json, copycats-common.mixins.json
+CrashAssistant-fabric-1.19.2-1.21.4-1.9.7.jar                                | crash_assistant                                              | crash_assistant.mixins.json
+    /META-INF/jarjar/app.jar                                                 |                                                              | 
+crashexploitfixer-fabric-1.1.0+1.20.1.jar                                    | crashexploitfixer                                            | crashexploitfixer.mixins.json
+CraterLib-Fabric-1.20-2.1.5.jar                                              | craterlib                                                    | craterlib.fabric.mixins.json, craterlib.mixins-refmap.json, craterlib.mixins.json, craterlib.fabric.mixins-refmap.json
+create-fabric-6.0.8.1+build.1744-mc1.20.1.jar                                | create                                                       | create.mixins.json
+    /META-INF/jars/Ponder-Fabric-1.20.1-1.0.91.jar                           | ponder                                                       | ponder-common.mixins.json, ponder.mixins.json
+        /META-INF/jars/base-2.3.12+1.20.1.jar                                | porting_lib_base                                             | porting_lib_base.mixins.json
+            /META-INF/jars/porting_lib_extensions-2.3.12+1.20.1.jar          | porting_lib_extensions                                       | porting_lib_extensions.mixins.json
+            /META-INF/jars/porting_lib_gui_utils-2.3.12+1.20.1.jar           | porting_lib_gui_utils                                        | porting_lib_gui_utils.mixins.json
+            /META-INF/jars/porting_lib_lazy_registration-2.3.12+1.20.1.jar   | porting_lib_lazy_registration                                | 
+            /META-INF/jars/porting_lib_tags-2.3.12+1.20.1.jar                | porting_lib_tags                                             | porting_lib_tags.mixins.json
+            /META-INF/jars/toml-3.6.6.jar                                    | com_electronwill_night-config_toml                           | 
+            /META-INF/jars/reach-entity-attributes-2.4.0.jar                 | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+            /META-INF/jars/porting_lib_core-2.3.12+1.20.1.jar                | porting_lib_core                                             | 
+            /META-INF/jars/porting_lib_entity-2.3.12+1.20.1.jar              | porting_lib_entity                                           | porting_lib_entity.mixins.json
+            /META-INF/jars/porting_lib_accessors-2.3.12+1.20.1.jar           | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+            /META-INF/jars/porting_lib_tool_actions-2.3.12+1.20.1.jar        | porting_lib_tool_actions                                     | porting_lib_tool_actions.mixins.json
+            /META-INF/jars/porting_lib_fluids-2.3.12+1.20.1.jar              | porting_lib_fluids                                           | porting_lib_fluids.mixins.json
+            /META-INF/jars/porting_lib_common-2.3.12+1.20.1.jar              | porting_lib_common                                           | porting_lib_common.mixins.json
+            /META-INF/jars/porting_lib_config-2.3.12+1.20.1.jar              | porting_lib_config                                           | porting_lib_config.mixins.json
+            /META-INF/jars/porting_lib_utility-2.3.12+1.20.1.jar             | porting_lib_utility                                          | 
+            /META-INF/jars/porting_lib_mixin_extensions-2.3.12+1.20.1.jar    | porting_lib_mixin_extensions                                 | porting_lib_mixin_extensions.mixins.json
+            /META-INF/jars/core-3.6.6.jar                                    | com_electronwill_night-config_core                           | 
+            /META-INF/jars/porting_lib_attributes-2.3.12+1.20.1.jar          | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+            /META-INF/jars/porting_lib_transfer-2.3.12+1.20.1.jar            | porting_lib_transfer                                         | porting_lib_transfer.mixins.json
+        /META-INF/jars/flywheel-fabric-1.20.1-1.0.0-215.jar                  | flywheel                                                     | flywheel.impl.mixins.json, flywheel.impl.sodium.mixins.json, flywheel.backend.mixins.json, flywheel.impl.fabric.mixins.json
+        /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                   | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+        /META-INF/jars/javax.annotation-api-1.3.2.jar                        | javax_annotation_javax_annotation-api                        | 
+        /META-INF/jars/jsr305-3.0.2.jar                                      | com_google_code_findbugs_jsr305                              | 
+    /META-INF/jars/Registrate-1.3.79-MC1.20.1.jar                            | registrate-fabric                                            | registrate-fabric.mixins.json
+        /META-INF/jars/data-2.1.1090+1.20.jar                                | porting_lib_data                                             | porting_lib_data.mixins.json
+            /META-INF/jars/porting_lib_utility-2.1.1090+1.20.jar             | porting_lib_utility                                          | 
+            /META-INF/jars/porting_lib_gametest-2.1.1090+1.20.jar            | porting_lib_gametest                                         | porting_lib_gametest.mixins.json
+            /META-INF/jars/porting_lib_core-2.1.1090+1.20.jar                | porting_lib_core                                             | 
+        /META-INF/jars/fabric-data-generation-api-v1-12.2.0+6c31357e77.jar   | fabric-data-generation-api-v1                                | fabric-data-generation-api-v1.mixins.json, fabric-data-generation-api-v1.client.mixins.json
+        /META-INF/jars/jsr305-3.0.2.jar                                      | com_google_code_findbugs_jsr305                              | 
+        /META-INF/jars/model_generators-2.1.1090+1.20.jar                    | porting_lib_model_generators                                 | porting_lib_model_generators.mixins.json
+            /META-INF/jars/porting_lib_utility-2.1.1090+1.20.jar             | porting_lib_utility                                          | 
+            /META-INF/jars/porting_lib_model_materials-2.1.1090+1.20.jar     | porting_lib_model_materials                                  | porting_lib_model_materials.mixins.json
+            /META-INF/jars/porting_lib_gametest-2.1.1090+1.20.jar            | porting_lib_gametest                                         | porting_lib_gametest.mixins.json
+            /META-INF/jars/porting_lib_core-2.1.1090+1.20.jar                | porting_lib_core                                             | 
+            /META-INF/jars/porting_lib_data-2.1.1090+1.20.jar                | porting_lib_data                                             | porting_lib_data.mixins.json
+        /META-INF/jars/tags-2.1.1090+1.20.jar                                | porting_lib_tags                                             | porting_lib_tags.mixins.json
+            /META-INF/jars/porting_lib_gametest-2.1.1090+1.20.jar            | porting_lib_gametest                                         | porting_lib_gametest.mixins.json
+            /META-INF/jars/porting_lib_core-2.1.1090+1.20.jar                | porting_lib_core                                             | 
+    /META-INF/jars/accessors-2.3.13+1.20.1.jar                               | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/base-2.3.13+1.20.1.jar                                    | porting_lib_base                                             | porting_lib_base.mixins.json
+        /META-INF/jars/porting_lib_tool_actions-2.3.13+1.20.1.jar            | porting_lib_tool_actions                                     | porting_lib_tool_actions.mixins.json
+        /META-INF/jars/porting_lib_accessors-2.3.13+1.20.1.jar               | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/toml-3.6.6.jar                                        | com_electronwill_night-config_toml                           | 
+        /META-INF/jars/porting_lib_tags-2.3.13+1.20.1.jar                    | porting_lib_tags                                             | porting_lib_tags.mixins.json
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+        /META-INF/jars/porting_lib_fluids-2.3.13+1.20.1.jar                  | porting_lib_fluids                                           | porting_lib_fluids.mixins.json
+        /META-INF/jars/porting_lib_lazy_registration-2.3.13+1.20.1.jar       | porting_lib_lazy_registration                                | 
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_utility-2.3.13+1.20.1.jar                 | porting_lib_utility                                          | 
+        /META-INF/jars/porting_lib_entity-2.3.13+1.20.1.jar                  | porting_lib_entity                                           | porting_lib_entity.mixins.json
+        /META-INF/jars/porting_lib_gui_utils-2.3.13+1.20.1.jar               | porting_lib_gui_utils                                        | porting_lib_gui_utils.mixins.json
+        /META-INF/jars/porting_lib_transfer-2.3.13+1.20.1.jar                | porting_lib_transfer                                         | porting_lib_transfer.mixins.json
+        /META-INF/jars/porting_lib_config-2.3.13+1.20.1.jar                  | porting_lib_config                                           | porting_lib_config.mixins.json
+        /META-INF/jars/porting_lib_attributes-2.3.13+1.20.1.jar              | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_common-2.3.13+1.20.1.jar                  | porting_lib_common                                           | porting_lib_common.mixins.json
+        /META-INF/jars/core-3.6.6.jar                                        | com_electronwill_night-config_core                           | 
+        /META-INF/jars/porting_lib_extensions-2.3.13+1.20.1.jar              | porting_lib_extensions                                       | porting_lib_extensions.mixins.json
+        /META-INF/jars/porting_lib_mixin_extensions-2.3.13+1.20.1.jar        | porting_lib_mixin_extensions                                 | porting_lib_mixin_extensions.mixins.json
+    /META-INF/jars/brewing-2.3.13+1.20.1.jar                                 | porting_lib_brewing                                          | porting_lib_brewing.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/client_events-2.3.13+1.20.1.jar                           | porting_lib_client_events                                    | porting_lib_client_events.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/core-3.6.3.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/entity-2.3.13+1.20.1.jar                                  | porting_lib_entity                                           | porting_lib_entity.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_mixin_extensions-2.3.13+1.20.1.jar        | porting_lib_mixin_extensions                                 | porting_lib_mixin_extensions.mixins.json
+    /META-INF/jars/extensions-2.3.13+1.20.1.jar                              | porting_lib_extensions                                       | porting_lib_extensions.mixins.json
+        /META-INF/jars/porting_lib_accessors-2.3.13+1.20.1.jar               | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_attributes-2.3.13+1.20.1.jar              | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_common-2.3.13+1.20.1.jar                  | porting_lib_common                                           | porting_lib_common.mixins.json
+    /META-INF/jars/flywheel-fabric-1.20.1-1.0.5-264.jar                      | flywheel                                                     | flywheel.impl.mixins.json, flywheel.impl.sodium.mixins.json, flywheel.backend.mixins.json, flywheel.impl.fabric.mixins.json
+    /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                       | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+    /META-INF/jars/jsr305-3.0.2.jar                                          | com_google_code_findbugs_jsr305                              | 
+    /META-INF/jars/milk-lib-1.2.60.jar                                       | milk                                                         | milk.mixins.json
+        /META-INF/jars/dripstone-fluid-lib-3.0.2.jar                         | dripstone_fluid_lib                                          | dripstone_fluid_lib.mixins.json
+    /META-INF/jars/model_generators-2.3.13+1.20.1.jar                        | porting_lib_model_generators                                 | porting_lib_model_generators.mixins.json
+        /META-INF/jars/porting_lib_model_materials-2.3.13+1.20.1.jar         | porting_lib_model_materials                                  | porting_lib_model_materials.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_utility-2.3.13+1.20.1.jar                 | porting_lib_utility                                          | 
+        /META-INF/jars/porting_lib_data-2.3.13+1.20.1.jar                    | porting_lib_data                                             | porting_lib_data.mixins.json
+    /META-INF/jars/models-2.3.13+1.20.1.jar                                  | porting_lib_models                                           | porting_lib_models.mixins.json
+        /META-INF/jars/porting_lib_model_loader-2.3.13+1.20.1.jar            | porting_lib_model_loader                                     | porting_lib_model_loader.mixins.json
+        /META-INF/jars/porting_lib_fluids-2.3.13+1.20.1.jar                  | porting_lib_fluids                                           | porting_lib_fluids.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_transfer-2.3.13+1.20.1.jar                | porting_lib_transfer                                         | porting_lib_transfer.mixins.json
+    /META-INF/jars/networking-2.3.13+1.20.1.jar                              | porting_lib_networking                                       | 
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/obj_loader-2.3.13+1.20.1.jar                              | porting_lib_obj_loader                                       | 
+        /META-INF/jars/porting_lib_model_loader-2.3.13+1.20.1.jar            | porting_lib_model_loader                                     | porting_lib_model_loader.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+    /META-INF/jars/tags-2.3.13+1.20.1.jar                                    | porting_lib_tags                                             | porting_lib_tags.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/toml-3.6.3.jar                                            | com_electronwill_night-config_toml                           | 
+    /META-INF/jars/tool_actions-2.3.13+1.20.1.jar                            | porting_lib_tool_actions                                     | porting_lib_tool_actions.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+    /META-INF/jars/transfer-2.3.13+1.20.1.jar                                | porting_lib_transfer                                         | porting_lib_transfer.mixins.json
+        /META-INF/jars/porting_lib_fluids-2.3.13+1.20.1.jar                  | porting_lib_fluids                                           | porting_lib_fluids.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.13+1.20.1.jar                    | porting_lib_core                                             | 
+create-food-1.20.1-1.1.13-fabric.jar                                         | createfood                                                   | createfood.mixins.json
+create_repair-fabric-1.20.1-1.2.1.jar                                        | create_repair                                                | mixins.create_repair.json
+    /META-INF/jars/attributes-2.3.16+1.20.1.jar                              | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.16+1.20.1.jar                    | porting_lib_core                                             | 
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+create_ultimate_factory-2.1.0-fabric-1.20.1.jar                              | create_ultimate_factory                                      | 
+createaddition-fabric+1.20.1-1.3.4.jar                                       | createaddition                                               | createaddition.mixins.json
+    /META-INF/jars/energy-2.3.0.jar                                          | team_reborn_energy                                           | 
+CreateBetterFps-1.1.2.jar                                                    | createbetterfps                                              | createbetterfps.mixins.json
+createcobblestone-1.4.9+fabric-1.20.1-131.jar                                | createcobblestone                                            | createcobblestone.mixins.json, createcobblestone-common.mixins.json
+createcontraptionterminals-fabric-1.20-1.2.0.jar                             | createcontraptionterminals                                   | cct.mixins.json
+Croptopia-1.20.1-FABRIC-3.0.4.jar                                            | croptopia                                                    | Croptopia.mixins.json
+croptopiadelight-1.0.1.jar                                                   | croptopiadelight                                             | 
+cullleaves-fabric-3.2.0.jar                                                  | cullleaves                                                   | cullleaves.mixins.json
+    /META-INF/jars/midnightlib-1.4.1-fabric.jar                              | midnightlib                                                  | midnightlib.mixins.json
+cupboard-fabric-1.20.1-2.7.jar                                               | cupboard                                                     | cupboard.mixins.json
+cushypillows-1.0.3+1.20.1.jar                                                | cushypillows                                                 | cushypillows.mixins.json
+CustomSkinLoader_Fabric-14.24.jar                                            | customskinloader                                             | mixins.customskinloader.refmap.json, mixins.customskinloader.json
+darkbindings-fabric-1.20.1-1.4.8.jar                                         | darkbindings                                                 | 
+darkbosses-fabric-1.20.1-1.0.4.jar                                           | darkbosses                                                   | 
+darkbread-fabric-1.20.1-1.0.0.jar                                            | darkbread (MCreator mod)                                     | darkbread.mixins.json
+darkcap-fabric-1.20.1-1.1.5.jar                                              | darkcap                                                      | 
+darkchidori-fabric-1.20.1-1.0.8.jar                                          | darkchidori                                                  | 
+darkfeather-fabric-1.20.1-1.0.2.jar                                          | darkfeather (MCreator mod)                                   | darkfeather.mixins.json
+darkglint-fabric-1.20.1-1.1.2.jar                                            | darkglint                                                    | 
+darkheads-fabric-1.20.1-1.1.3.jar                                            | darkheads                                                    | 
+darkloot-fabric-1.20.1-1.2.6a.jar                                            | darkloot                                                     | 
+darkmenu-fabric-1.20.1-1.1.9.jar                                             | darkmenu                                                     | 
+darkmining-fabric-1.20.1-1.1.8.jar                                           | darkmining                                                   | 
+darksleep-fabric-1.20.1-1.0.0.jar                                            | darksleep                                                    | 
+darksmelting-fabric-1.20.1-1.1.3.jar                                         | darksmelting                                                 | 
+darksmithing-fabric-1.20.1-1.1.2.jar                                         | darksmithing                                                 | 
+darkstarter-fabric-1.20.1-1.1.4.jar                                          | darkstarter                                                  | 
+darktimer-fabric-1.20.1-1.1.9.jar                                            | darktimer                                                    | 
+darkzoom-fabric-1.20.1-1.0.6.jar                                             | darkzoom                                                     | 
+death_knights-fabric-1.0.0-1.20.1.jar                                        | death_knights                                                | death_knights.mixins.json
+doubledoors-1.20.1-7.2.jar                                                   | doubledoors                                                  | doubledoors_forge.mixins.json, doubledoors_fabric.mixins.json
+doublejumpattribute-1.0.9.jar                                                | doublejumpattribute                                          | doublejumpattribute.mixins.json
+    /META-INF/jars/cardinal-components-base-5.2.2.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.2.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+dragonloot-1.1.4.jar                                                         | dragonloot                                                   | dragonloot.mixins.json
+DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar                                     | dramaticdoors                                                | fabric-dramaticdoors_fabric.mixins.json, forge-dramaticdoors.mixins.json, forge-dramaticdoors_forge.mixins.json, fabric-dramaticdoors.mixins.json
+drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar                              | drippyloadingscreen                                          | drippyloadingscreen.fabric.mixins.json, drippyloadingscreen.mixins.json
+druids-0.9.8.0.jar                                                           | druids                                                       | druids.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+DungeonsArise-1.20.x-2.1.58-fabric-release.jar                               | dungeons_arise                                               | 
+DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar                               | dungeons_arise_seven_seas                                    | dungeons_arise_seven_seas.mixins.json
+Durability101-fabric-1.20-0.0.5.jar                                          | durability101                                                | durability101.client.mixins.json
+dynamictrim-1.4.1-fabric+1.20.1.jar                                          | dynamictrim                                                  | dynamictrim-common.mixins.json, dynamictrim.mixins 2.json, dynamictrim.mixins.json, dynamictrim-common.mixins 2.json
+elemental_wizards_rpg-1.1.4.jar                                              | elemental_wizards_rpg                                        | elemental_wizards_rpg.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+emi-1.1.22+1.20.1+fabric.jar                                                 | emi                                                          | emi-fabric.mixins.json, emi.mixins.json
+emi_loot-0.7.6+1.20.1+fabric.jar                                             | emi_loot                                                     | emi_loot.mixins.json
+emitrades-fabric-1.2.1+mc1.20.1.jar                                          | emitrades                                                    | 
+    /META-INF/jars/json-0.2.1.jar                                            | org_quiltmc_parsers_json                                     | 
+emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar                          | emotecraft                                                   | emotecraft-arch.mixins.json, emotecraft.mixins.json
+    /META-INF/jars/bendy-lib-fabric-4.0.0.jar                                | bendy-lib                                                    | bendylib.mixins.json
+    /META-INF/jars/player-animation-lib-fabric-1.0.2-rc1+1.20.jar            | player-animator                                              | playerAnimator-common.mixins.json
+enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar            | evs                                                          | evs.fabric.mixins.json, evs.mixins.json
+EnchantedToolTips-1.3.7-1.20.jar                                             | enchantedtooltips                                            | 
+    /META-INF/jars/kyrptconfig-1.5.6-1.20.jar                                | kyrptconfig                                                  | 
+entityculling-fabric-1.8.0-mc1.20.1.jar                                      | entityculling                                                | entityculling.mixins.json, entityculling.refmap.mixins.json
+    /META-INF/jars/TRender-1.0.4-1.20.1-fabric-SNAPSHOT.jar                  | trender                                                      | trender.mixins.json, trender.refmap.mixins.json
+    /META-INF/jars/TRansition-1.0.2-1.20.1-fabric-SNAPSHOT.jar               | transition                                                   | transition.mixins.json, transition.refmap.mixins.json
+EpheroLib-1.20.1-FABRIC-1.2.0.jar                                            | epherolib                                                    | epherolib-root.mixins.json, epherolib.mixins.json
+eternal_attributes-fabric-1.0.0-1.20.1.jar                                   | eternal_attributes                                           | eternal_attributes.mixins.json
+ExplorersCompass-1.20.1-2.2.3-fabric.jar                                     | explorerscompass                                             | explorerscompass.mixins.json
+expores-1.0.0+mc1.20.1.jar                                                   | expores                                                      | 
+extrakeybinds-0.5.0+1.17-1.19.4.jar                                          | extrakeybinds                                                | 
+extraorigins-1.20-8.jar                                                      | extraorigins                                                 | extraorigins.mixins.json
+extraspellattributes-1.2.11.jar                                              | extraspellattributes                                         | extraspellattributes.mixins.json
+extrasponges-1.5.0.jar                                                       | extrasponges                                                 | 
+fabric-api-0.92.9+1.20.1.jar                                                 | fabric-api                                                   | 
+    /META-INF/jars/fabric-api-base-0.92.9.jar                                | fabric-api-base                                              | 
+    /META-INF/jars/fabric-api-lookup-api-v1-0.92.9.jar                       | fabric-api-lookup-api-v1                                     | fabric-api-lookup-api-v1.mixins.json
+    /META-INF/jars/fabric-biome-api-v1-0.92.9.jar                            | fabric-biome-api-v1                                          | fabric-biome-api-v1.mixins.json
+    /META-INF/jars/fabric-block-api-v1-0.92.9.jar                            | fabric-block-api-v1                                          | fabric-block-api-v1.mixins.json
+    /META-INF/jars/fabric-block-view-api-v2-0.92.9.jar                       | fabric-block-view-api-v2                                     | fabric-block-view-api-v2.client.mixins.json, fabric-block-view-api-v2.mixins.json
+    /META-INF/jars/fabric-blockrenderlayer-v1-0.92.9.jar                     | fabric-blockrenderlayer-v1                                   | fabric-blockrenderlayer-v1.mixins.json
+    /META-INF/jars/fabric-client-tags-api-v1-0.92.9.jar                      | fabric-client-tags-api-v1                                    | 
+    /META-INF/jars/fabric-command-api-v1-0.92.9.jar                          | fabric-command-api-v1                                        | 
+    /META-INF/jars/fabric-command-api-v2-0.92.9.jar                          | fabric-command-api-v2                                        | fabric-command-api-v2.mixins.json, fabric-command-api-v2.client.mixins.json
+    /META-INF/jars/fabric-commands-v0-0.92.9.jar                             | fabric-commands-v0                                           | 
+    /META-INF/jars/fabric-containers-v0-0.92.9.jar                           | fabric-containers-v0                                         | fabric-containers-v0.accurate.mixins.json, fabric-containers-v0.mixins.json
+    /META-INF/jars/fabric-content-registries-v0-0.92.9.jar                   | fabric-content-registries-v0                                 | fabric-content-registries-v0.mixins.json
+    /META-INF/jars/fabric-convention-tags-v1-0.92.9.jar                      | fabric-convention-tags-v1                                    | 
+    /META-INF/jars/fabric-crash-report-info-v1-0.92.9.jar                    | fabric-crash-report-info-v1                                  | fabric-crash-report-info-v1.mixins.json
+    /META-INF/jars/fabric-data-attachment-api-v1-0.92.9.jar                  | fabric-data-attachment-api-v1                                | fabric-data-attachment-api-v1.mixins.json, fabric-data-attachment-api-v1.client.mixins.json
+    /META-INF/jars/fabric-data-generation-api-v1-0.92.9.jar                  | fabric-data-generation-api-v1                                | fabric-data-generation-api-v1.mixins.json, fabric-data-generation-api-v1.client.mixins.json
+    /META-INF/jars/fabric-dimensions-v1-0.92.9.jar                           | fabric-dimensions-v1                                         | fabric-dimensions-v1.mixins.json
+    /META-INF/jars/fabric-entity-events-v1-0.92.9.jar                        | fabric-entity-events-v1                                      | fabric-entity-events-v1.client.mixins.json, fabric-entity-events-v1.mixins.json
+    /META-INF/jars/fabric-events-interaction-v0-0.92.9.jar                   | fabric-events-interaction-v0                                 | fabric-events-interaction-v0.client.mixins.json, fabric-events-interaction-v0.mixins.json
+    /META-INF/jars/fabric-events-lifecycle-v0-0.92.9.jar                     | fabric-events-lifecycle-v0                                   | 
+    /META-INF/jars/fabric-game-rule-api-v1-0.92.9.jar                        | fabric-game-rule-api-v1                                      | fabric-game-rule-api-v1.mixins.json, fabric-game-rule-api-v1.client.mixins.json
+    /META-INF/jars/fabric-item-api-v1-0.92.9.jar                             | fabric-item-api-v1                                           | fabric-item-api-v1.client.mixins.json, fabric-item-api-v1.mixins.json
+    /META-INF/jars/fabric-item-group-api-v1-0.92.9.jar                       | fabric-item-group-api-v1                                     | fabric-item-group-api-v1.client.mixins.json, fabric-item-group-api-v1.mixins.json
+    /META-INF/jars/fabric-key-binding-api-v1-0.92.9.jar                      | fabric-key-binding-api-v1                                    | fabric-key-binding-api-v1.mixins.json
+    /META-INF/jars/fabric-keybindings-v0-0.92.9.jar                          | fabric-keybindings-v0                                        | 
+    /META-INF/jars/fabric-lifecycle-events-v1-0.92.9.jar                     | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+    /META-INF/jars/fabric-loot-api-v2-0.92.9.jar                             | fabric-loot-api-v2                                           | fabric-loot-api-v2.mixins.json
+    /META-INF/jars/fabric-loot-tables-v1-0.92.9.jar                          | fabric-loot-tables-v1                                        | fabric-loot-tables-v1.mixins.json
+    /META-INF/jars/fabric-message-api-v1-0.92.9.jar                          | fabric-message-api-v1                                        | fabric-message-api-v1.client.mixins.json, fabric-message-api-v1.mixins.json
+    /META-INF/jars/fabric-mining-level-api-v1-0.92.9.jar                     | fabric-mining-level-api-v1                                   | fabric-mining-level-api-v1.mixins.json
+    /META-INF/jars/fabric-model-loading-api-v1-0.92.9.jar                    | fabric-model-loading-api-v1                                  | fabric-model-loading-api-v1.mixins.json
+    /META-INF/jars/fabric-models-v0-0.92.9.jar                               | fabric-models-v0                                             | 
+    /META-INF/jars/fabric-networking-api-v1-0.92.9.jar                       | fabric-networking-api-v1                                     | fabric-networking-api-v1.mixins.json, fabric-networking-api-v1.client.mixins.json
+    /META-INF/jars/fabric-networking-v0-0.92.9.jar                           | fabric-networking-v0                                         | 
+    /META-INF/jars/fabric-object-builder-api-v1-0.92.9.jar                   | fabric-object-builder-api-v1                                 | fabric-object-builder-v1.mixins.json, fabric-object-builder-v1.client.mixins.json
+    /META-INF/jars/fabric-particles-v1-0.92.9.jar                            | fabric-particles-v1                                          | fabric-particles-v1.client.mixins.json
+    /META-INF/jars/fabric-recipe-api-v1-0.92.9.jar                           | fabric-recipe-api-v1                                         | fabric-recipe-api-v1.mixins.json
+    /META-INF/jars/fabric-registry-sync-v0-0.92.9.jar                        | fabric-registry-sync-v0                                      | fabric-registry-sync-v0.mixins.json, fabric-registry-sync-v0.client.mixins.json
+    /META-INF/jars/fabric-renderer-api-v1-0.92.9.jar                         | fabric-renderer-api-v1                                       | fabric-renderer-api-v1.debughud.mixins.json, fabric-renderer-api-v1.mixins.json
+    /META-INF/jars/fabric-renderer-indigo-0.92.9.jar                         | fabric-renderer-indigo                                       | fabric-renderer-indigo.mixins.json
+    /META-INF/jars/fabric-renderer-registries-v1-0.92.9.jar                  | fabric-renderer-registries-v1                                | 
+    /META-INF/jars/fabric-rendering-data-attachment-v1-0.92.9.jar            | fabric-rendering-data-attachment-v1                          | fabric-rendering-data-attachment-v1.client.mixins.json, fabric-rendering-data-attachment-v1.mixins.json
+    /META-INF/jars/fabric-rendering-fluids-v1-0.92.9.jar                     | fabric-rendering-fluids-v1                                   | fabric-rendering-fluids-v1.mixins.json
+    /META-INF/jars/fabric-rendering-v0-0.92.9.jar                            | fabric-rendering-v0                                          | 
+    /META-INF/jars/fabric-rendering-v1-0.92.9.jar                            | fabric-rendering-v1                                          | fabric-rendering-v1.mixins.json
+    /META-INF/jars/fabric-resource-conditions-api-v1-0.92.9.jar              | fabric-resource-conditions-api-v1                            | fabric-resource-conditions-api-v1.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.92.9.jar                      | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+    /META-INF/jars/fabric-screen-api-v1-0.92.9.jar                           | fabric-screen-api-v1                                         | fabric-screen-api-v1.mixins.json
+    /META-INF/jars/fabric-screen-handler-api-v1-0.92.9.jar                   | fabric-screen-handler-api-v1                                 | fabric-screen-handler-api-v1.mixins.json
+    /META-INF/jars/fabric-sound-api-v1-0.92.9.jar                            | fabric-sound-api-v1                                          | fabric-sound-api-v1.mixins.json
+    /META-INF/jars/fabric-transfer-api-v1-0.92.9.jar                         | fabric-transfer-api-v1                                       | fabric-transfer-api-v1.mixins.json
+    /META-INF/jars/fabric-transitive-access-wideners-v1-0.92.9.jar           | fabric-transitive-access-wideners-v1                         | 
+fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar                               | fabric-language-kotlin                                       | 
+    /META-INF/jars/atomicfu-jvm-0.28.0.jar                                   | org_jetbrains_kotlinx_atomicfu-jvm                           | 
+    /META-INF/jars/kotlin-reflect-2.2.0.jar                                  | org_jetbrains_kotlin_kotlin-reflect                          | 
+    /META-INF/jars/kotlin-stdlib-2.2.0.jar                                   | org_jetbrains_kotlin_kotlin-stdlib                           | 
+    /META-INF/jars/kotlin-stdlib-jdk7-2.2.0.jar                              | org_jetbrains_kotlin_kotlin-stdlib-jdk7                      | 
+    /META-INF/jars/kotlin-stdlib-jdk8-2.2.0.jar                              | org_jetbrains_kotlin_kotlin-stdlib-jdk8                      | 
+    /META-INF/jars/kotlinx-coroutines-core-jvm-1.10.2.jar                    | org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm            | 
+    /META-INF/jars/kotlinx-coroutines-jdk8-1.10.2.jar                        | org_jetbrains_kotlinx_kotlinx-coroutines-jdk8                | 
+    /META-INF/jars/kotlinx-datetime-jvm-0.6.2.jar                            | org_jetbrains_kotlinx_kotlinx-datetime-jvm                   | 
+    /META-INF/jars/kotlinx-io-bytestring-jvm-0.7.0.jar                       | org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm              | 
+    /META-INF/jars/kotlinx-io-core-jvm-0.7.0.jar                             | org_jetbrains_kotlinx_kotlinx-io-core-jvm                    | 
+    /META-INF/jars/kotlinx-serialization-cbor-jvm-1.8.1.jar                  | org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm         | 
+    /META-INF/jars/kotlinx-serialization-core-jvm-1.8.1.jar                  | org_jetbrains_kotlinx_kotlinx-serialization-core-jvm         | 
+    /META-INF/jars/kotlinx-serialization-json-jvm-1.8.1.jar                  | org_jetbrains_kotlinx_kotlinx-serialization-json-jvm         | 
+fabric-seasons-2.4.2-BETA+1.20.jar                                           | seasons                                                      | seasons.mixins.json
+fabric-seasons-croptopia-2.2.2-compat-1.0.jar                                | seasonscroptopiacompat                                       | seasonscroptopiacompat.mixins.json
+fabric-seasons-delight-1.3.9-compat-1.0.jar                                  | seasonsdelightcompat                                         | seasonsdelightcompat.mixins.json
+fabric-seasons-extras-1.3.2-BETA+1.20.jar                                    | seasonsextras                                                | seasonsextraspatchouli.mixins.json
+fakerlib-0.1.4.jar                                                           | fakerlib                                                     | fakerlib.mixins.json
+fancymenu_fabric_3.6.2_MC_1.20.1.jar                                         | fancymenu                                                    | fancymenu.fabric.mixins.json, fancymenu.mixins.json
+    /META-INF/jars/animated-gif-lib-for-java-animated-gif-lib-1.7.jar        | com_github_rtyley_animated-gif-lib-for-java                  | 
+    /META-INF/jars/japng-0.5.3.jar                                           | com_github_keksuccino_japng                                  | 
+fantasy_armor-fabric-1.2.4-1.20.1.jar                                        | fantasy_armor                                                | fantasy_armor.mixins.json
+fantasy_weapons-fabric-0.3.1-1.20.1.jar                                      | fantasy_weapons                                              | 
+FarmersDelight-1.20.1-2.4.0+refabricated.jar                                 | farmersdelight                                               | farmersdelight.mixins.json
+    /META-INF/jars/Fabric-ASM-v2.3.jar                                       | mm                                                           | mixins.mm.json, mixins.mm.refmap.json
+    /META-INF/jars/accessors-2.3.8+1.20.1.jar                                | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/base-2.3.8+1.20.1.jar                                     | porting_lib_base                                             | porting_lib_base.mixins.json
+        /META-INF/jars/porting_lib_tool_actions-2.3.8+1.20.1.jar             | porting_lib_tool_actions                                     | porting_lib_tool_actions.mixins.json
+        /META-INF/jars/porting_lib_transfer-2.3.8+1.20.1.jar                 | porting_lib_transfer                                         | porting_lib_transfer.mixins.json
+        /META-INF/jars/porting_lib_utility-2.3.8+1.20.1.jar                  | porting_lib_utility                                          | 
+        /META-INF/jars/porting_lib_tags-2.3.8+1.20.1.jar                     | porting_lib_tags                                             | porting_lib_tags.mixins.json
+        /META-INF/jars/toml-3.6.6.jar                                        | com_electronwill_night-config_toml                           | 
+        /META-INF/jars/porting_lib_fluids-2.3.8+1.20.1.jar                   | porting_lib_fluids                                           | porting_lib_fluids.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+        /META-INF/jars/porting_lib_attributes-2.3.8+1.20.1.jar               | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_mixin_extensions-2.3.8+1.20.1.jar         | porting_lib_mixin_extensions                                 | porting_lib_mixin_extensions.mixins.json
+        /META-INF/jars/porting_lib_entity-2.3.8+1.20.1.jar                   | porting_lib_entity                                           | porting_lib_entity.mixins.json
+        /META-INF/jars/porting_lib_config-2.3.8+1.20.1.jar                   | porting_lib_config                                           | porting_lib_config.mixins.json
+        /META-INF/jars/porting_lib_lazy_registration-2.3.8+1.20.1.jar        | porting_lib_lazy_registration                                | 
+        /META-INF/jars/porting_lib_accessors-2.3.8+1.20.1.jar                | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/porting_lib_gui_utils-2.3.8+1.20.1.jar                | porting_lib_gui_utils                                        | porting_lib_gui_utils.mixins.json
+        /META-INF/jars/core-3.6.6.jar                                        | com_electronwill_night-config_core                           | 
+        /META-INF/jars/porting_lib_extensions-2.3.8+1.20.1.jar               | porting_lib_extensions                                       | porting_lib_extensions.mixins.json
+        /META-INF/jars/porting_lib_common-2.3.8+1.20.1.jar                   | porting_lib_common                                           | porting_lib_common.mixins.json
+    /META-INF/jars/config-2.3.8+1.20.1.jar                                   | porting_lib_config                                           | porting_lib_config.mixins.json
+        /META-INF/jars/toml-3.6.6.jar                                        | com_electronwill_night-config_toml                           | 
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+        /META-INF/jars/core-3.6.6.jar                                        | com_electronwill_night-config_core                           | 
+    /META-INF/jars/lazy_registration-2.3.8+1.20.1.jar                        | porting_lib_lazy_registration                                | 
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/loot-2.3.8+1.20.1.jar                                     | porting_lib_loot                                             | porting_lib_loot.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+        /META-INF/jars/porting_lib_lazy_registration-2.3.8+1.20.1.jar        | porting_lib_lazy_registration                                | 
+    /META-INF/jars/networking-2.3.8+1.20.1.jar                               | porting_lib_networking                                       | 
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/recipe_book_categories-2.3.8+1.20.1.jar                   | porting_lib_recipe_book_categories                           | porting_lib_recipe_book_categories.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/tags-2.3.8+1.20.1.jar                                     | porting_lib_tags                                             | porting_lib_tags.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/tool_actions-2.3.8+1.20.1.jar                             | porting_lib_tool_actions                                     | porting_lib_tool_actions.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.8+1.20.1.jar                     | porting_lib_core                                             | 
+farsight-fabric-1.20.1-4.3.jar                                               | farsight                                                     | farsight.mixins.json
+    /META-INF/jars/jctools-core-4.0.1.jar                                    | org_jctools_jctools-core                                     | 
+fastboot-1.20.x-1.2fabric.jar                                                | fastboot                                                     | fastboot.mixins.json
+fastpaintings-1.20-1.2.7-fabric.jar                                          | fastpaintings                                                | fastpaintings.mixins.json
+ferritecore-6.0.1-fabric.jar                                                 | ferritecore                                                  | ferritecore.modelsides.mixin.json, ferritecore.mrl.mixin.json, ferritecore.dedupbakedquad.mixin.json, ferritecore.threaddetec.mixin.json, ferritecore.fabric.mixin.json, ferritecore.dedupmultipart.mixin.json, ferritecore.blockstatecache.mixin.json, ferritecore.predicates.mixin.json, ferritecore.fastmap.mixin.json
+forcecrawl-fabric-1.20-1.0.4.jar                                             | forcecrawl                                                   | forcecrawl.mixins.json
+forcemaster-class-mod-1.1.1.jar                                              | forcemaster_rpg                                              | forcemaster-class-mod.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar                                  | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+framework-fabric-1.20.1-0.7.15.jar                                           | framework                                                    | framework.mixins.json
+    /META-INF/jars/core-3.6.6.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/javassist-3.29.2-GA.jar                                   | org_javassist_javassist                                      | 
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+    /META-INF/jars/toml-3.6.6.jar                                            | com_electronwill_night-config_toml                           | 
+full-slabs-3.4.0.jar                                                         | full_slabs                                                   | full_slabs.mixins.json
+    /META-INF/jars/Statement-4.2.8.jar                                       | statement                                                    | statement.mixins.json
+        /META-INF/jars/KanosConfig-0.4.1.jar                                 | kanos_config                                                 | 
+        /META-INF/jars/StatementVanillaCompatibility-1.0.1+1.14.4-1.15.2.jar | statement_vanilla_compatibility                              | 
+        /META-INF/jars/StatementVanillaCompatibility-1.0.1-1.16.5-1.17.jar   | statement_vanilla_compatibility                              | 
+fzzy_config-0.7.0+1.20.1.jar                                                 | fzzy_config                                                  | fzzy_config.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.3.1.jar                          | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/jankson-1.2.3.jar                                         | blue_endless_jankson                                         | 
+    /META-INF/jars/tomlkt-jvm-0.3.7.jar                                      | net_peanuuutz_tomlkt_tomlkt-jvm                              | 
+fzzy_core-0.5.1+1.20.1.jar                                                   | fzzy_core                                                    | fzzy_core.mixins.json
+gazebo-1.1.1+1.20.1.jar                                                      | gazebo                                                       | gazebo.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+gear_core-0.3.8+1.20.1.jar                                                   | gear_core                                                    | gear_core.mixins.json
+geckolib-fabric-1.20.1-4.7.2.jar                                             | geckolib                                                     | geckolib.mixins.json
+    /META-INF/jars/mclib-20.jar                                              | com_eliotlash_mclib_mclib                                    | 
+geode_plus-fabric-1.2.5-1.20.1.jar                                           | geode_plus                                                   | regutils-ctz79l9-net-yeoxuhang-geode_plus-reg.mixins.json, geode_plus.mixins.json, geode_plus.fabric.mixins.json
+Geophilic v3.4.2 f15-80.mod.jar                                              | geophilic                                                    | 
+getittogetherdrops-fabric-1.20-1.3.1.jar                                     | getittogetherdrops                                           | getittogetherdrops.mixins.json
+giftsofgiving-fabric-1.20.1-1.1.1.jar                                        | giftsofgiving                                                | regutils-cce2txm-com-nyfaria-nyfsmultiloader-registration.mixins.json, giftsofgiving.mixins.json
+globalpacks-fabric-1.20.1-19.3.5.jar                                         | mod_id                                                       | globalpacks.mixins.json
+    /META-INF/jars/core-3.8.0.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/toml-3.8.0.jar                                            | com_electronwill_night-config_toml                           | 
+Golden Berries-fabric-1.20.1-1.1.4.jar                                       | goldenberry                                                  | goldenberry.mixins.json, goldenberry.fabric.mixins.json
+gpumemleakfix-fabric-1.20.1-1.8.jar                                          | gpumemleakfix                                                | gpumemleakfix.mixins.json
+grind-enchantments-3.1.4+1.20.1.jar                                          | grindenchantments                                            | grindenchantments.mixins.json
+    /META-INF/jars/codec-config-api-3.0.1+1.20.1.jar                         | codec-config-api                                             | codec-config-api.mixins.json
+handcrafted-fabric-1.20.1-3.0.6.jar                                          | handcrafted                                                  | handcrafted.mixins.json, handcrafted-common.mixins.json
+harvest-with-ease-fabric-1.20.1-9.4.0.jar                                    | harvest_with_ease                                            | harvest_with_ease.fabric.mixins.json, harvest_with_ease.mixins.json
+held-item-info-1.5.0.jar                                                     | held-item-info                                               | held-item-info.mixins.json
+imbued_gear-0.4.0+1.20.1.jar                                                 | imbued_gear                                                  | imbued_gear.mixins.json
+    /META-INF/jars/trinkets-3.7.0.jar                                        | trinkets                                                     | trinkets.mixins.json
+        /META-INF/jars/cardinal-components-base-5.2.0.jar                    | cardinal-components-base                                     | 
+        /META-INF/jars/cardinal-components-entity-5.2.0.jar                  | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+immersive_paintings-0.6.8+1.20.1-fabric.jar                                  | immersive_paintings                                          | immersive_paintings.mixin.json
+indium-1.0.36+mc1.20.1.jar                                                   | indium                                                       | indium.mixins.json
+interiors-1.20.1-fabric-0.6.0.jar                                            | interiors                                                    | interiors.mixins.json
+inventoryhud.fabric.1.20.1-3.4.26.jar                                        | inventoryhud                                                 | inventoryhud.mixins.json
+InventorySorter-1.9.0-1.20.jar                                               | inventorysorter                                              | 
+    /META-INF/jars/kyrptconfig-1.5.6-1.20.jar                                | kyrptconfig                                                  | 
+invoke-0.2.4.jar                                                             | invoke                                                       | invoke.mixins.json, invoke.client.mixins.json
+InvView-1.4.12-1.20+.jar                                                     | invview                                                      | invview.mixins.json
+    /META-INF/jars/sgui-1.2.2+1.20.jar                                       | sgui                                                         | sgui.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.2-SNAPSHOT.jar                   | fabric-permissions-api-v0                                    | 
+iris-1.7.6+mc1.20.1.jar                                                      | iris                                                         | mixins.iris.compat.sodium.json, iris-batched-entity-rendering.mixins.json, mixins.iris.devenvironment.json, mixins.iris.fixes.maxfpscrash.json, mixins.iris.json, mixins.iris.fantastic.json, mixins.iris.integrationtest.json, mixins.iris.vertexformat.json, mixins.iris.compat.indigo.json, mixins.iris.bettermipmaps.json, mixins.iris.compat.indium.json
+    /META-INF/jars/antlr4-runtime-4.13.1.jar                                 | org_antlr_antlr4-runtime                                     | 
+    /META-INF/jars/fabric-api-base-0.4.31+1802ada577.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-key-binding-api-v1-1.0.37+1802ada577.jar           | fabric-key-binding-api-v1                                    | fabric-key-binding-api-v1.mixins.json
+    /META-INF/jars/glsl-transformer-2.0.1.jar                                | io_github_douira_glsl-transformer                            | 
+    /META-INF/jars/jcpp-1.4.14.jar                                           | org_anarres_jcpp                                             | 
+ironchests-5.0.2-fabric.jar                                                  | ironchests                                                   | 
+    /META-INF/jars/resourcefullib-fabric-1.20-2.0.6.jar                      | resourcefullib                                               | resourcefullib.mixins.json
+        /META-INF/jars/yabn-1.0.3.jar                                        | com_teamresourceful_yabn                                     | 
+jei-1.20.1-fabric-15.20.0.106.jar                                            | jei                                                          | jei.mixins.json
+Jewelry-1.3.7+1.20.1.jar                                                     | jewelry                                                      | jewelry.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+kevslibrary-1.1.2.jar                                                        | kevslibrary                                                  | 
+kevstierifymodifiers-1.5.6.jar                                               | kevstierifymodifiers                                         | 
+konkrete_fabric_1.8.1_MC_1.20.1.jar                                          | konkrete                                                     | konkrete.mixin-refmap.json, konkrete.mixin.json
+krypton-0.2.3.jar                                                            | krypton                                                      | krypton.mixins.json
+    /META-INF/jars/velocity-native-3.2.0-SNAPSHOT.jar                        | com_velocitypowered_velocity-native                          | 
+lambdynamiclights-4.1.3+1.20.1.jar                                           | lambdynlights                                                | lambdynlights.mixins.json, lambdynlights.lightsource.mixins.json
+    /META-INF/jars/lambdynamiclights-api-4.1.3+1.20.1.jar                    | lambdynlights_api                                            | 
+        /META-INF/jars/yumi-commons-collections-1.0.0-alpha.12.jar           | yumi-commons-collections                                     | 
+        /META-INF/jars/yumi-commons-core-1.0.0-alpha.12.jar                  | yumi-commons-core                                            | 
+        /META-INF/jars/yumi-commons-event-1.0.0-alpha.12.jar                 | yumi-commons-event                                           | 
+    /META-INF/jars/pridelib-1.2.0+1.19.4.jar                                 | pride                                                        | 
+    /META-INF/jars/spruceui-6.2.1+1.20.jar                                   | spruceui                                                     | spruceui.mixins.json
+landchidori-fabric-1.20.1-1.0.9.jar                                          | landchidori                                                  | 
+LavaClearView-1.20.1-fabric-7.0.0.jar                                        | clearview                                                    | clearview.mixins.json
+lavender-0.1.9+1.20.jar                                                      | lavender                                                     | lavender.mixins.json
+    /META-INF/jars/core-0.1.1+1.20.jar                                       | lavender-md                                                  | 
+    /META-INF/jars/owo-sentinel-0.11.2+1.20.jar                              | owo-sentinel                                                 | 
+    /META-INF/jars/owo-ui-0.1.1+1.20.jar                                     | lavender-md-owo-ui                                           | lavender-md-owo-ui.mixins.json
+ledger-1.2.8.jar                                                             | ledger                                                       | ledger.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.2-SNAPSHOT.jar                   | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/server-translations-api-2.0.0-beta.2+1.19.4-pre2.jar      | server_translations_api                                      | server_translations_api.mixin.json
+        /META-INF/jars/packet-tweaker-0.3.1+23w06a.jar                       | packet_tweaker                                               | packettweaker.mixins.json
+ledger-databases-1.1.1.jar                                                   | ledger-databases                                             | 
+    /META-INF/jars/h2-1.4.200.jar                                            | com_h2database_h2                                            | 
+    /META-INF/jars/mysql-connector-java-8.0.19.jar                           | mysql_mysql-connector-java                                   | 
+    /META-INF/jars/postgresql-42.3.0.jar                                     | org_postgresql_postgresql                                    | 
+letsdo-vinery-fabric-1.4.41.jar                                              | vinery                                                       | vinery-common.mixins.json, vinery.mixins.json
+    /META-INF/jars/cloth-config-fabric-11.1.136.jar                          | cloth-config                                                 | 
+        /META-INF/jars/basic-math-0.6.1.jar                                  | cloth-basic-math                                             | 
+libraryferret-fabric-1.20.1-4.0.0.jar                                        | libraryferret                                                | 
+libreexpfix-0.2.7+1.18b14-BETA-fabric.jar                                    | libreexpfix                                                  | libreexpfix.mixins.json
+libz-1.0.3.jar                                                               | libz                                                         | libz.mixins.json
+    /META-INF/jars/jackson-annotations-2.15.2.jar                            | com_fasterxml_jackson_core_jackson-annotations               | 
+    /META-INF/jars/jackson-core-2.15.2.jar                                   | com_fasterxml_jackson_core_jackson-core                      | 
+    /META-INF/jars/jackson-databind-2.15.2.jar                               | com_fasterxml_jackson_core_jackson-databind                  | 
+LimitedSpawners-fabric-1.20.1-1.0.8.jar                                      | limitedspawners                                              | limitedspawners.mixins.json
+litematica-fabric-1.20.1-0.15.3.jar                                          | litematica                                                   | mixins.litematica.json
+lithium-fabric-mc1.20.1-0.11.3.jar                                           | lithium                                                      | lithium.mixins.json, mixins.lithium.refmap.json
+lithostitched-fabric-1.20.1-1.4.10.jar                                       | lithostitched                                                | lithostitched.mixins.json, lithostitched.fabric.mixins.json
+lne_archers-0.1.8-1.20.1.jar                                                 | lne_archers                                                  | lne_archers.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/ranged-weapon-api-1.1.0+1.20.1.jar                        | ranged_weapon_api                                            | ranged_weapon_api.mixins.json
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+lne_paladins-0.1.12-1.20.1.jar                                               | lne_paladins                                                 | lne_paladins.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+lne_rogues-0.1.6-1.20.1.jar                                                  | lne_rogues                                                   | lne_rogues.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+lne_wizards-0.1.10-1.20.1.jar                                                | lne_wizards                                                  | lne_wizards.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+loadingscreentips-1.3.1.jar                                                  | loadingscreentips                                            | loadingscreentips.mixins.json
+    /META-INF/jars/midnightlib-1.4.1-fabric.jar                              | midnightlib                                                  | midnightlib.mixins.json
+Log-Begone-Fabric-1.20.1-1.0.8.jar                                           | logbegone                                                    | 
+LongNbtKiller-Fabric-1.20.1-1.0.0.jar                                        | longnbtkiller                                                | longnbtkiller.mixins.json
+loot_n_explore-0.1.11-1.20.1.jar                                             | loot_n_explore                                               | rpg-loot.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+lootr-fabric-1.20-0.7.35.85.jar                                              | lootr                                                        | lootr.mixins.json
+MagicParticles-1.2.1+1.20.1.jar                                              | magic-particles                                              | magic_particles.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.3.1.jar                          | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/message-api-0.1.1-1.20.1.jar                              | message-api                                                  | messageapi.mixins.json
+    /META-INF/jars/placeholder-api-2.1.2+1.20.1.jar                          | placeholder-api                                              | 
+    /META-INF/jars/player-data-api-0.2.2+1.19.3.jar                          | player-data-api                                              | playerdataapi.mixins.json
+MagnumTorch-v8.0.2-1.20.1-Fabric.jar                                         | magnumtorch                                                  | 
+malilib-fabric-1.20.1-0.16.3.jar                                             | malilib                                                      | mixins.malilib.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d77.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+MaxHealthFix-Fabric-1.20.1-12.0.3.jar                                        | maxhealthfix                                                 | maxhealthfix.fabric.mixins.json, maxhealthfix.common.mixins.json
+mcda-5.0.2.jar                                                               | mcda                                                         | mcda.mixins.json
+mcdar-4.0.5.jar                                                              | mcdar                                                        | mcdar.mixins.json
+mcdw-9.0.4.jar                                                               | mcdw                                                         | mcdw.mixins.json
+mcw-fences-1.1.2-mc1.20.1fabric.jar                                          | mcwfences                                                    | 
+mcw-furniture-3.2.2-mc1.20.1fabric.jar                                       | mcwfurnitures                                                | 
+Medieval Origins Revival-6.6.0+1.20.1-fabric.jar                             | medievalorigins                                              | medievalorigins.fabric.mixins.json, medievalorigins.mixins.json
+    /META-INF/jars/Apugli-2.10.2+1.20.1-fabric.jar                           | apugli                                                       | apugli.mixins.json, apugli.fabric.mixins.json
+        /META-INF/jars/midnightlib-1.4.1-fabric.jar                          | midnightlib                                                  | midnightlib.mixins.json
+    /META-INF/jars/autotag-api-2.0.2+1.20.jar                                | autotag                                                      | autotag.mixins.json
+    /META-INF/jars/projectile-damage-attribute-3.2.2+1.20.1-fabric.jar       | projectile_damage                                            | projectile_damage.mixins.json
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+MeliusCommands-2.0.2+1.20.1.jar                                              | melius-commands                                              | meliuscommands.mixins.json
+    /META-INF/jars/placeholder-api-2.1.4+1.20.1.jar                          | placeholder-api                                              | 
+    /META-INF/jars/predicate-api-0.2.1+1.20.1.jar                            | predicate-api                                                | 
+melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar                                     | melody                                                       | melody.fabric.mixins.json, melody.mixins.json
+memorysweep-1.20.1-2.0.3-fabric.jar                                          | memorysweep                                                  | memorysweep.mixins.json
+memoryusagetitle-fabric-1.0.1.jar                                            | memoryusagetitle                                             | memoryusagetitle-common.mixins.json
+minecord-2.1.0+1.20.1.jar                                                    | minecord                                                     | 
+    /META-INF/jars/minecord-api-2.0.1+1.20.1.jar                             | minecord-api                                                 | minecord.mixins.json
+        /META-INF/jars/cloth-config-fabric-11.1.106.jar                      | cloth-config                                                 | 
+            /META-INF/jars/basic-math-0.6.1.jar                              | cloth-basic-math                                             | 
+        /META-INF/jars/fabric-api-base-0.4.30+7abfd51577.jar                 | fabric-api-base                                              | 
+        /META-INF/jars/fabric-lifecycle-events-v1-2.2.21+b3afc78b77.jar      | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+        /META-INF/jars/placeholder-api-2.1.3+1.20.1.jar                      | placeholder-api                                              | 
+    /META-INF/jars/minecord-chat-2.1.0+1.20.1.jar                            | minecord-chat                                                | minecord-chat.mixins.json
+        /META-INF/jars/fabric-entity-events-v1-1.5.22+b3afc78b77.jar         | fabric-entity-events-v1                                      | fabric-entity-events-v1.client.mixins.json, fabric-entity-events-v1.mixins.json
+        /META-INF/jars/fabric-message-api-v1-5.1.8+d7b148e077.jar            | fabric-message-api-v1                                        | fabric-message-api-v1.client.mixins.json, fabric-message-api-v1.mixins.json
+        /META-INF/jars/fabric-networking-api-v1-1.3.10+eeb8eb3677.jar        | fabric-networking-api-v1                                     | fabric-networking-api-v1.mixins.json, fabric-networking-api-v1.client.mixins.json
+    /META-INF/jars/minecord-cmds-2.0.1+1.20.1.jar                            | minecord-cmds                                                | 
+    /META-INF/jars/minecord-presence-2.0.0+1.20.1.jar                        | minecord-presence                                            | 
+modernfix-fabric-5.24.1+mc1.20.1.jar                                         | modernfix                                                    | modernfix-common.mixins.json, modernfix-fabric.mixins.json
+modmenu-7.2.2.jar                                                            | modmenu                                                      | mixins.modmenu.json
+    /META-INF/jars/fabric-api-base-0.4.29+b04edc7a77.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d77.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+    /META-INF/jars/fabric-screen-api-v1-2.0.6+b3afc78b77.jar                 | fabric-screen-api-v1                                         | fabric-screen-api-v1.mixins.json
+    /META-INF/jars/fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar           | fabric-key-binding-api-v1                                    | fabric-key-binding-api-v1.mixins.json
+    /META-INF/jars/fabric-lifecycle-events-v1-2.2.20+b3afc78b77.jar          | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+moonlight-1.20-2.16.32-fabric.jar                                            | moonlight                                                    | moonlight.mixins.json, moonlight-common.mixins.json
+more_rpg_classes-1.2.0-1.20.1.jar                                            | more_rpg_classes                                             | more-rpg-classes.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+morningglory-fabric-1.20.1-1.0.0.jar                                         | morningglory                                                 | 
+MouseTweaks-fabric-mc1.20-2.26.jar                                           | mousetweaks                                                  | mousetweaks-fabric.mixins.json, mousetweaks.mixins.refmap.json, mousetweaks.mixins.json
+mythic-mounts-1.20.1-7.4.jar                                                 | mythicmounts                                                 | mythic-mounts.mixins.json
+mythiclib-1.1.0+1.20.1.jar                                                   | mythiclib                                                    | 
+mythicmetals-0.19.10+1.20.1.jar                                              | mythicmetals                                                 | mythicmetals.mixins.json
+    /META-INF/jars/additionalentityattributes-1.7.3+1.20.0.jar               | additionalentityattributes                                   | additionalentityattributes.mixins.json
+    /META-INF/jars/cardinal-components-base-5.2.1.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.1.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+    /META-INF/jars/common-protection-api-1.0.0.jar                           | common-protection-api                                        | 
+    /META-INF/jars/owo-sentinel-0.11.2+1.20.jar                              | owo-sentinel                                                 | 
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+mythicupgrades-4.2.0+mc1.20.1.jar                                            | mythicupgrades                                               | mythicupgrades.mixins.json
+    /META-INF/jars/owo-sentinel-0.11.2+1.20.jar                              | owo-sentinel                                                 | 
+NaturesCompass-1.20.1-2.2.3-fabric.jar                                       | naturescompass                                               | naturescompass.mixins.json
+Necronomicon-Fabric-1.6.0+1.20.1.jar                                         | necronomicon                                                 | necronomicon-common.mixins.json
+Neruina-2.2.11-fabric+1.20.1.jar                                             | neruina                                                      | neruina.mixins.json
+    /META-INF/jars/github-api-1.318.jar                                      | org_kohsuke_github-api                                       | 
+    /META-INF/jars/httpcore5-5.3.1.jar                                       | org_apache_httpcomponents_core5_httpcore5                    | 
+    /META-INF/jars/jackson-annotations-2.17.0.jar                            | com_fasterxml_jackson_core_jackson-annotations               | 
+    /META-INF/jars/jackson-core-2.17.0.jar                                   | com_fasterxml_jackson_core_jackson-core                      | 
+    /META-INF/jars/jackson-databind-2.17.0.jar                               | com_fasterxml_jackson_core_jackson-databind                  | 
+    /META-INF/jars/maven-artifact-3.8.1.jar                                  | org_apache_maven_maven-artifact                              | 
+NethersDelight-Refabricated-1.20.1-4.1.1.jar                                 | nethersdelight                                               | nethersdelight.mixins.json
+no-resource-pack-warnings-1.3.1.jar                                          | no-resource-pack-warnings                                    | no-resource-pack-warnings.mixins.json
+NoChatReports-FABRIC-1.20.1-v2.2.2.jar                                       | nochatreports                                                | mixins/fabric/nochatreports-fabric.mixins.json, mixins/common/nochatreports.mixins.json
+    /META-INF/jars/fabric-api-base-0.4.29+b04edc7a82.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-networking-api-v1-1.3.8+b3afc78b82.jar             | fabric-networking-api-v1                                     | fabric-networking-api-v1.mixins.json, fabric-networking-api-v1.client.mixins.json
+    /META-INF/jars/fabric-screen-api-v1-2.0.6+b3afc78b82.jar                 | fabric-screen-api-v1                                         | fabric-screen-api-v1.mixins.json
+    /META-INF/jars/fabric-rendering-v1-3.0.6+b3afc78b82.jar                  | fabric-rendering-v1                                          | fabric-rendering-v1.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d82.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+noglobalsounds-fabric-1.20.1-1.0.0a.jar                                      | noglobalsounds                                               | 
+NoSeeNoTick-2.0.0-1.20.1.jar                                                 | noseenotick                                                  | noseenotick.mixins.json
+Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar                               | nerb                                                         | nerb-common.mixins.json
+notenoughanimations-fabric-1.10.0-mc1.20.1.jar                               | notenoughanimations                                          | notenoughanimations.refmap.mixins.json, notenoughanimations.mixins.json
+    /META-INF/jars/TRender-1.0.4-1.20.1-fabric-SNAPSHOT.jar                  | trender                                                      | trender.mixins.json, trender.refmap.mixins.json
+    /META-INF/jars/TRansition-1.0.2-1.20.1-fabric-SNAPSHOT.jar               | transition                                                   | transition.mixins.json, transition.refmap.mixins.json
+Nyctophobia_1.9_(FABRIC)_for_1.20+.jar                                       | nyctophobia                                                  | nyctophobia.mixins.json
+    /META-INF/jars/omega-config-base-1.2.2-1.18.1.jar                        | omega-config                                                 | omega-config.mixins.json
+nyfsbp-fabric-1.20.1-1.1.1.jar                                               | nyfsbp                                                       | regutils-gibg0ae-com-nyfaria-nyfsbp-registration.mixins.json, nyfsbp.mixins.json
+    /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                       | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+nyfsgenetics-fabric-1.20.1-1.0.1.jar                                         | nyfsgenetics                                                 | nyfsgenetics.mixins.json, regutils-5yskh06-com-nyfaria-nyfsgenetics-registration.mixins.json
+    /META-INF/jars/cardinal-components-base-5.2.2.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.2.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+Obscure-API-16.jar                                                           | obscure_api                                                  | obscure_api.mixins.json
+oceansdelight-fdrf-fabric-1.0.2-1.20.jar                                     | oceansdelight                                                | oceansdelight.mixins.json
+OctoLib-FABRIC-0.5.0.1+1.20.1.jar                                            | octolib                                                      | octolib-common.mixins.json, octolib-fabric.mixins.json
+    /META-INF/jars/snakeyaml-2.2.jar                                         | org_yaml_snakeyaml                                           | 
+OfflineCommands-1.0.2+1.20.1.jar                                             | offlinecommands                                              | offlinecommands.mixins.json
+open-parties-and-claims-fabric-1.20.1-0.24.0.jar                             | openpartiesandclaims                                         | openpartiesandclaims.mixins.json
+origin-deities-2.1.0.jar                                                     | origins_deities                                              | origins_deities.mixins.json
+Origins-1.20.1-1.10.0.jar                                                    | origins                                                      | origins.mixins.json
+    /META-INF/jars/apoli-v2.9.0.jar                                          | apoli                                                        | apoli.mixins.json
+        /META-INF/jars/cardinal-components-base-5.2.1.jar                    | cardinal-components-base                                     | 
+        /META-INF/jars/cardinal-components-entity-5.2.1.jar                  | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+        /META-INF/jars/PlayerAbilityLib-1.8.0.jar                            | playerabilitylib                                             | mixins.playerabilitylib.common.json
+        /META-INF/jars/calio-v1.11.0.jar                                     | calio                                                        | calio.mixins.json
+        /META-INF/jars/cloth-config-fabric-11.0.99.jar                       | cloth-config                                                 | 
+            /META-INF/jars/basic-math-0.6.1.jar                              | cloth-basic-math                                             | 
+        /META-INF/jars/AdditionalEntityAttributes-89b98f4.jar                | additionalentityattributes                                   | additionalentityattributes.mixins.json
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+Origins-Classes-1.20-1.7.0.jar                                               | origins-classes                                              | origins-classes.mixins.json
+owo-lib-0.11.2+1.20.jar                                                      | owo                                                          | owo.mixins.json
+    /META-INF/jars/jankson-1.2.2.jar                                         | blue_endless_jankson                                         | 
+packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar                                  | packetfixer                                                  | packetfixer.common.mixins.json
+paladins-1.3.1+1.20.1.jar                                                    | paladins                                                     | paladins.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/shield-api-1.0.0+1.20.1-fabric.jar                        | shield_api                                                   | shield_api.client.mixins.json, shield_api.mixins.json
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+particle_core-0.2.6+1.20.1.jar                                               | particle_core                                                | particle_core.mixins.json
+    /META-INF/jars/conditional-mixin-0.5.1.jar                               | conditional-mixin                                            | 
+Patchouli-1.20.1-84-FABRIC.jar                                               | patchouli                                                    | patchouli_xplat.mixins.json, patchouli_fabric.mixins.json
+    /META-INF/jars/fiber-0.23.0-2.jar                                        | fiber                                                        | 
+Pehkui-3.8.3+1.14.4-1.21.jar                                                 | pehkui                                                       | pehkui.mixins.json
+    /META-INF/jars/KanosConfig-0.4.1.jar                                     | kanos_config                                                 | 
+perfectbirbs-fabric-1.20.1-1.2.0.jar                                         | perfectbirbs                                                 | regutils-intmm0o-com-nyfaria-perfectbirbs-registration.mixins.json, perfectbirbs.mixins.json
+    /META-INF/jars/perfectplushieapi-fabric-1.20.1-0.1.1.jar                 | perfectplushieapi                                            | perfectplushieapi.mixins.json
+perfectplushies-fabric-1.20.1-1.13.3.jar                                     | perfectplushies                                              | perfectplushies.mixins.json, regutils-m92tcse-io-github-sirjain0-perfectplushies-registration.mixins.json
+    /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                       | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+    /META-INF/jars/perfectplushieapi-fabric-1.20.1-1.0.7.jar                 | perfectplushieapi                                            | regutils-jxrjmyu-com-nyfaria-perfectplushieapi-registration.mixins.json, perfectplushieapi.mixins.json
+        /META-INF/jars/forgeconfigapiport-fabric-8.0.0.jar                   | forgeconfigapiport                                           | forgeconfigapiport.common.mixins.json
+PerPlayerWanderingTraders-1.0.2+1.20.1.jar                                   | perplayerwanderingtraders                                    | perplayerwanderingtraders.mixins.json
+pickable_villagers-1.4.5+1.20.1.jar                                          | pickablevillagers                                            | pickablevillagers.mixins.json
+player-animation-lib-fabric-1.0.2-rc1+1.20.jar                               | player-animator                                              | playerAnimator-common.mixins.json
+plushables-1.1.4.jar                                                         | plushables                                                   | plushables.mixins.json
+    /META-INF/jars/midnightlib-1.4.1-fabric.jar                              | midnightlib                                                  | midnightlib.mixins.json
+plushies-1.4.0-fabric.jar                                                    | plushies                                                     | 
+polymorph-fabric-0.49.10+1.20.1.jar                                          | polymorph                                                    | polymorph.fabric.mixins.json, polymorph.mixins.json, polymorph-integrations.fabric.mixins.json
+    /META-INF/jars/cardinal-components-base-5.2.1.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-block-5.2.1.jar                       | cardinal-components-block                                    | mixins.cardinal_components_block.json
+    /META-INF/jars/cardinal-components-entity-5.2.1.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+    /META-INF/jars/cardinal-components-item-5.2.1.jar                        | cardinal-components-item                                     | mixins.cardinal_components_item.json
+    /META-INF/jars/spectrelib-fabric-0.13.17+1.20.1.jar                      | spectrelib                                                   | spectrelib.mixins.json
+        /META-INF/jars/core-3.6.7.jar                                        | com_electronwill_night-config_core                           | 
+        /META-INF/jars/toml-3.6.7.jar                                        | com_electronwill_night-config_toml                           | 
+PresenceFootsteps-1.10.1+1.20.1.jar                                          | presencefootsteps                                            | presencefootsteps.mixin.json, presencefootsteps.mixin.refmap.json
+    /META-INF/jars/kirin-1.15.6+1.20.1.jar                                   | kirin                                                        | kirin.mixin.refmap.json, kirin.mixin.json
+projectile_damage-fabric-3.2.3+1.20.1.jar                                    | projectile_damage                                            | projectile_damage.mixins.json
+puffish_attributes-0.7.2-1.20-fabric.jar                                     | puffish_attributes                                           | puffish_attributes.mixins.json
+puffish_skills-0.15.2-1.20-fabric.jar                                        | puffish_skills                                               | puffish_skills.mixins.json
+PuzzlesLib-v8.1.32-1.20.1-Fabric.jar                                         | puzzleslib                                                   | puzzleslib.common.mixins.json, puzzleslib.fabric.mixins.json
+    /META-INF/jars/puzzlesaccessapi-fabric-20.1.1.jar                        | puzzlesaccessapi                                             | puzzlesaccessapi.common.mixins.json, puzzlesaccessapi.fabric.mixins.json
+randomblockplacement-1.0.5-1.20+.jar                                         | randomblockplacement                                         | randomblockplacement.client.mixins.json, randomblockplacement.mixins.json
+ranged_weapon_api-1.1.4+1.20.1.jar                                           | ranged_weapon_api                                            | ranged_weapon_api.mixins.json
+ReBalance-FABRIC-1.2.0.jar                                                   | rebalance                                                    | rebalance.mixins.json
+reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar                           | reeses-sodium-options                                        | reeses-sodium-options.mixins.json
+refurbished_furniture-fabric-1.20.1-1.0.14.jar                               | refurbished_furniture                                        | refurbished_furniture.fabric.mixins.json, refurbished_furniture.common.mixins.json
+resourcefulconfig-fabric-1.20.1-2.1.3.jar                                    | resourcefulconfig                                            | 
+resourcefullib-fabric-1.20.1-2.1.29.jar                                      | resourcefullib                                               | resourcefullib.mixins.json
+    /META-INF/jars/yabn-1.0.3.jar                                            | com_teamresourceful_yabn                                     | 
+    /META-INF/jars/bytecodecs-1.0.2.jar                                      | com_teamresourceful_bytecodecs                               | 
+rogues-1.1.0+1.20.1.jar                                                      | rogues                                                       | rogues.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+rpgmana-1.0.8.2.jar                                                          | rpgmana                                                      | rpgmana.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+runes-0.9.13+1.20.1.jar                                                      | runes                                                        | runes.mixins.json
+sbaegis-origin-1.20-1.2.1.jar                                                | sbaegis-origin                                               | 
+Sculked_Magpie.jar                                                           | sculkedmagpie                                                | 
+Searchables-fabric-1.20.1-1.0.3.jar                                          | searchables                                                  | searchables.fabric.mixins.json, searchables.mixins.json
+seasonhud-fabric-1.20.1-2.0.5.jar                                            | seasonhud                                                    | seasonhud.mixins.json
+servercore-fabric-1.5.2+1.20.1.jar                                           | servercore                                                   | servercore.fabric.mixins.json, servercore.common.mixins.json
+    /META-INF/jars/dazzleconf-core-1.3.0-M2.jar                              | space_arim_dazzleconf_dazzleconf-core                        | 
+    /META-INF/jars/dazzleconf-ext-snakeyaml-1.3.0-M2.jar                     | space_arim_dazzleconf_dazzleconf-ext-snakeyaml               | 
+    /META-INF/jars/fabric-permissions-api-0.3.1.jar                          | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/placeholder-api-2.1.3+1.20.1.jar                          | placeholder-api                                              | 
+    /META-INF/jars/snakeyaml-2.2.jar                                         | org_yaml_snakeyaml                                           | 
+shadowmounts-1.20.1-1.1.jar                                                  | shadowmounts                                                 | shadowmounts_forge.mixins.json, shadowmounts_fabric.mixins.json
+ShieldAPI-1.0.1+1.20.1.jar                                                   | shield_api                                                   | shield_api.client.mixins.json, shield_api.mixins.json
+SimplyHouses-1.1.4-1.20.1-fabric.jar                                         | simply_houses                                                | 
+simplymore-fabric-1.1.3.jar                                                  | simplymore                                                   | simplymore.mixins.json
+simplyswords-1.56.0-1.20.1.jar                                               | simplyswords                                                 | simplyswords.mixins.json, simplyswords-common.mixins.json
+    /META-INF/jars/spruceui-5.0.0+1.20.jar                                   | spruceui                                                     | spruceui.mixins.json
+sit-1.20.1-27.jar                                                            | sit                                                          | 
+SkyVillages-1.0.4-1.19.2-1.20.1-fabric.jar                                   | skyvillages                                                  | skyvillages.mixins.json
+slabsandstairs-1.7.2.jar                                                     | slabsandstairs                                               | slabsandstairs.mixins.json
+SlotCycler-v8.0.1-1.20.1-Fabric.jar                                          | slotcycler                                                   | 
+    /META-INF/jars/puzzlesapi-fabric-8.0.2.jar                               | puzzlesapi                                                   | puzzlesapi.common.mixins.json
+        /META-INF/jars/cardinal-components-base-5.2.1.jar                    | cardinal-components-base                                     | 
+        /META-INF/jars/cardinal-components-entity-5.2.1.jar                  | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+        /META-INF/jars/puzzlesaccessapi-fabric-8.0.5.jar                     | puzzlesaccessapi                                             | 
+SmartBrainLib-fabric-1.20.1-1.15.jar                                         | smartbrainlib                                                | smartbrainlib.mixins.json
+sodium-extra-0.5.9+mc1.20.1.jar                                              | sodium-extra                                                 | sodium-extra.mixins.json
+    /META-INF/jars/CaffeineConfig-1.3.0+1.17.jar                             | caffeineconfig                                               | 
+sodium-fabric-0.5.13+mc1.20.1.jar                                            | sodium                                                       | sodium.mixins.json
+    /META-INF/jars/fabric-api-base-0.4.31+1802ada577.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-block-view-api-v2-1.0.1+1802ada577.jar             | fabric-block-view-api-v2                                     | fabric-block-view-api-v2.client.mixins.json, fabric-block-view-api-v2.mixins.json
+    /META-INF/jars/fabric-rendering-data-attachment-v1-0.3.37+92a0d36777.jar | fabric-rendering-data-attachment-v1                          | fabric-rendering-data-attachment-v1.client.mixins.json, fabric-rendering-data-attachment-v1.mixins.json
+    /META-INF/jars/fabric-rendering-fluids-v1-3.0.28+1802ada577.jar          | fabric-rendering-fluids-v1                                   | fabric-rendering-fluids-v1.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.11+fb82e9d777.jar          | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+soulslike-weaponry-1.2.4-1.20.1-fabric.jar                                   | soulsweapons                                                 | soulsweapons.mixins.json
+spell_engine-0.15.10+1.20.1.jar                                              | spell_engine                                                 | spell_engine.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+Spell_Engine_OPAC_Compat-1.0.0.jar                                           | spell-engine-openpac-compat                                  | spell-engine-openpac-compat.mixins.json
+spell_power-0.12.0+1.20.1.jar                                                | spell_power                                                  | spell_power.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+spellbladenext-1.20.4.jar                                                    | spellbladenext                                               | spellbladenext.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/cardinal-components-base-5.2.2.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.2.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+starlight-1.1.2+fabric.dbc156f.jar                                           | starlight                                                    | starlight.mixins.json
+Steam_Rails-1.7.2+fabric-mc1.20.1.jar                                        | railways                                                     | railways.mixins.json, railways-common.mixins.json
+    /META-INF/jars/Fabric-ASM-v2.3.jar                                       | mm                                                           | mixins.mm.json, mixins.mm.refmap.json
+structure_pool_api-1.0+1.20.1.jar                                            | structure_pool_api                                           | structure_pool.mixins.json
+structurecredits-LASTVERSION.jar                                             | structurecredits                                             | structurecredits-common.mixins.json, structurecredits.mixins.json
+styled-chat-2.2.4+1.20.1.jar                                                 | styledchat                                                   | styledchat.mixins.json
+    /META-INF/jars/predicate-api-0.1.2+1.20.jar                              | predicate-api                                                | 
+    /META-INF/jars/placeholder-api-2.1.4+1.20.1.jar                          | placeholder-api                                              | 
+    /META-INF/jars/fabric-permissions-api-0.2-SNAPSHOT.jar                   | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/player-data-api-0.2.2+1.19.3.jar                          | player-data-api                                              | playerdataapi.mixins.json
+styledplayerlist-3.1.1+1.20.1.jar                                            | styledplayerlist                                             | styledplayerlist.mixins.json
+    /META-INF/jars/predicate-api-0.1.2+1.20.jar                              | predicate-api                                                | 
+    /META-INF/jars/placeholder-api-2.1.1+1.20.jar                            | placeholder-api                                              | 
+    /META-INF/jars/player-data-api-0.2.2+1.19.3.jar                          | player-data-api                                              | playerdataapi.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.1-SNAPSHOT.jar                   | fabric-permissions-api-v0                                    | 
+supplementaries-1.20-3.1.43-fabric.jar                                       | supplementaries                                              | supplementaries-common.mixins.json, supplementaries.mixins.json
+TerraBlender-fabric-1.20.1-3.0.1.10.jar                                      | terrablender                                                 | terrablender_fabric.mixins.json, terrablender.mixins.json
+    /META-INF/jars/core-3.6.7.jar                                            | com_electronwill_night-config_core                           | 
+    /META-INF/jars/toml-3.6.7.jar                                            | com_electronwill_night-config_toml                           | 
+Terralith_1.20.x_v2.5.4.jar                                                  | terralith                                                    | 
+thaumon-fabric-2.3.0+1.20.1.jar                                              | thaumon                                                      | thaumon-common.mixins.json, thaumon-fabric.mixins.json
+The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar                                    | graveyard                                                    | graveyard-fabric.mixins.json, graveyard-common.mixins.json
+things-0.3.3+1.20.jar                                                        | things                                                       | things.mixins.json
+    /META-INF/jars/lavender-0.1.0-pre.18+1.20.jar                            | lavender                                                     | lavender.mixins.json
+        /META-INF/jars/core-0.1.0-pre.3+1.20.jar                             | lavender-md                                                  | 
+        /META-INF/jars/owo-ui-0.1.0-pre.3+1.20.jar                           | lavender-md-owo-ui                                           | lavender-md-owo-ui.mixins.json
+    /META-INF/jars/owo-sentinel-0.11.2+1.20.jar                              | owo-sentinel                                                 | 
+    /META-INF/jars/reach-entity-attributes-2.3.3-pre.2.jar                   | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+tidal-towns-1.3.4.jar                                                        | mr_tidal_towns                                               | 
+Tierify-FABRIC-1.20.1-1.2.0.jar                                              | tiered                                                       | tiered.mixins.json
+    /META-INF/jars/autotag-2.0.2+1.20.jar                                    | autotag-convention                                           | 
+        /META-INF/jars/autotag-api-2.0.2+1.20.jar                            | autotag                                                      | autotag.mixins.json
+    /META-INF/jars/autotag-api-2.0.2+1.20.jar                                | autotag                                                      | autotag.mixins.json
+    /META-INF/jars/jackson-annotations-2.15.2.jar                            | com_fasterxml_jackson_core_jackson-annotations               | 
+    /META-INF/jars/jackson-core-2.15.2.jar                                   | com_fasterxml_jackson_core_jackson-core                      | 
+    /META-INF/jars/jackson-databind-2.15.2.jar                               | com_fasterxml_jackson_core_jackson-databind                  | 
+    /META-INF/jars/libz-1.0.2+1.20.1.jar                                     | libz                                                         | libz.mixins.json
+        /META-INF/jars/jackson-annotations-2.15.2.jar                        | com_fasterxml_jackson_core_jackson-annotations               | 
+        /META-INF/jars/jackson-core-2.15.2.jar                               | com_fasterxml_jackson_core_jackson-core                      | 
+        /META-INF/jars/jackson-databind-2.15.2.jar                           | com_fasterxml_jackson_core_jackson-databind                  | 
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+tinypaper-fabric-1.20.1-1.0.1.jar                                            | tinypaper                                                    | 
+toms_storage_fabric-1.20-1.7.1.jar                                           | toms_storage                                                 | 
+    /META-INF/jars/cloth-config-fabric-11.1.136.jar                          | cloth-config                                                 | 
+        /META-INF/jars/basic-math-0.6.1.jar                                  | cloth-basic-math                                             | 
+toms_trading_network-fabric-1.20-0.3.0.jar                                   | toms_trading_network                                         | 
+toofast-fabric-1.20-1.2.0.jar                                                | toofast                                                      | toofast.mixins.json
+tooltipfix-1.1.1-1.20.jar                                                    | tooltipfix                                                   | tooltipfix.mixins.json
+totw_additions-1.3.0-1.20.x-fabric.jar                                       | totw_additions                                               | 
+trade-cycling-fabric-1.20.1-1.0.7.jar                                        | trade_cycling                                                | trade_cycling.mixins.json
+    /META-INF/jars/fabric-api-base-0.4.29+b04edc7a82.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-key-binding-api-v1-1.0.36+fb8d95da82.jar           | fabric-key-binding-api-v1                                    | fabric-key-binding-api-v1.mixins.json
+    /META-INF/jars/fabric-lifecycle-events-v1-2.2.20+b3afc78b82.jar          | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+    /META-INF/jars/fabric-networking-api-v1-1.3.8+b3afc78b82.jar             | fabric-networking-api-v1                                     | fabric-networking-api-v1.mixins.json, fabric-networking-api-v1.client.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d82.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+    /META-INF/jars/fabric-screen-api-v1-2.0.6+b3afc78b82.jar                 | fabric-screen-api-v1                                         | fabric-screen-api-v1.mixins.json
+transmog-fabric-1.3.0+1.20.jar                                               | transmog                                                     | mixins.transmog.common.json, mixins.transmog.fabric.json
+trashslot-fabric-1.20-15.1.1.jar                                             | trashslot                                                    | trashslot.mixins.json
+travelersbackpack-fabric-1.20.1-9.1.37.jar                                   | travelersbackpack                                            | travelersbackpack.mixins.json
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+TravelersTitles-1.20-Fabric-4.0.2.jar                                        | travelerstitles                                              | travelerstitles_fabric.mixins.json, travelerstitles.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+tridents_n_stuff-0.2.0+1.20.1.jar                                            | tridents_n_stuff                                             | tridents_n_stuff.mixins.json
+    /META-INF/jars/fzzy_config-0.2.4+1.20.1.jar                              | fzzy_config                                                  | fzzy_config.mixins.json
+        /META-INF/jars/jankson-1.2.3.jar                                     | blue_endless_jankson                                         | 
+        /META-INF/jars/tomlkt-jvm-0.3.7.jar                                  | net_peanuuutz_tomlkt_tomlkt-jvm                              | 
+trinkets-3.7.2.jar                                                           | trinkets                                                     | trinkets.mixins.json
+    /META-INF/jars/cardinal-components-base-5.2.0.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.0.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+triqueapi-mc1.20.1-1.1.0.jar                                                 | triqueapi                                                    | 
+UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar                                   | universalbonemeal                                            | 
+unsafe-world-random-access-detector-1.1.0.jar                                | unsafe-world-random-access-detector                          | unsafe-world-random-access-detector.mixins.json
+vanilla-permissions-0.2.9+1.20.1.jar                                         | vanilla-permissions                                          | vanilla-permissions.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.3.1.jar                          | fabric-permissions-api-v0                                    | 
+vanish-1.5.5+1.20.1.jar                                                      | melius-vanish                                                | vanish.mixins.json
+    /META-INF/jars/fabric-permissions-api-0.3.1.jar                          | fabric-permissions-api-v0                                    | 
+    /META-INF/jars/placeholder-api-2.1.3+1.20.1.jar                          | placeholder-api                                              | 
+    /META-INF/jars/player-data-api-0.2.2+1.19.3.jar                          | player-data-api                                              | playerdataapi.mixins.json
+    /META-INF/jars/server-translations-api-2.0.0+1.20.jar                    | server_translations_api                                      | server_translations_api.mixin.json
+        /META-INF/jars/packet-tweaker-0.4.0+1.19.4.jar                       | packet_tweaker                                               | packettweaker.mixins.json
+variantbarrels-3.4.1.jar                                                     | variantbarrels                                               | variantbarrels.mixins.json
+variantbeehives-1.2.jar                                                      | variantbeehives                                              | variantbeehives.mixins.json
+variantbookshelves-2.3.8.jar                                                 | variantbookshelves                                           | 
+variantchiseledbookshelves-1.3.8.jar                                         | variantchiseledbookshelves                                   | 
+variantcomposters-2.4.1.jar                                                  | variantcomposters                                            | variantcomposters.mixins.json
+variantfletchingtables-1.2.1.jar                                             | variantfletchingtables                                       | variantfletchingtables.mixins.json
+variantlecterns-1.0.jar                                                      | variantlecterns                                              | variantlecterns.mixins.json
+variantshields-2.1.jar                                                       | variantshields                                               | variantshields.mixins.json
+vcinteraction-1.20.1-1.0.5.jar                                               | vcinteraction                                                | 
+    /META-INF/jars/fabric-api-base-0.4.30+7abfd51577.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-content-registries-v0-4.0.10+57aed33f77.jar        | fabric-content-registries-v0                                 | fabric-content-registries-v0.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.9+132c48c177.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+    /META-INF/jars/fabric-registry-sync-v0-2.3.2+4df89eb277.jar              | fabric-registry-sync-v0                                      | fabric-registry-sync-v0.mixins.json, fabric-registry-sync-v0.client.mixins.json
+    /META-INF/jars/fabric-lifecycle-events-v1-2.2.21+b3afc78b77.jar          | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+    /META-INF/jars/polymer-reg-sync-manipulator-0.5.0+1.20.jar               | polymer-registry-sync-manipulator                            | polymer-rsm.mixins.json
+villagerconfig-4.1.2+1.20.1.jar                                              | villagerconfig                                               | villagerconfig.mixins.json
+    /META-INF/jars/config2brigadier-fabric-1.2.5.jar                         | config2brigadier                                             | 
+    /META-INF/jars/fabric-api-base-0.4.30+7abfd51577.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-command-api-v2-2.2.12+b3afc78b77.jar               | fabric-command-api-v2                                        | fabric-command-api-v2.mixins.json, fabric-command-api-v2.client.mixins.json
+    /META-INF/jars/fabric-lifecycle-events-v1-2.2.21+b3afc78b77.jar          | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.9+132c48c177.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+    /META-INF/jars/fabric-transitive-access-wideners-v1-4.3.0+6c31357e77.jar | fabric-transitive-access-wideners-v1                         | 
+    /META-INF/jars/fiber-0.23.0-2.jar                                        | fiber                                                        | 
+voicechat-fabric-1.20.1-2.5.30.jar                                           | voicechat                                                    | voicechat.mixins.json
+    /META-INF/jars/fabric-api-base-0.4.29+b04edc7a82.jar                     | fabric-api-base                                              | 
+    /META-INF/jars/fabric-command-api-v2-2.2.11+b3afc78b82.jar               | fabric-command-api-v2                                        | fabric-command-api-v2.mixins.json, fabric-command-api-v2.client.mixins.json
+    /META-INF/jars/fabric-key-binding-api-v1-1.0.36+fb8d95da82.jar           | fabric-key-binding-api-v1                                    | fabric-key-binding-api-v1.mixins.json
+    /META-INF/jars/fabric-lifecycle-events-v1-2.2.20+b3afc78b82.jar          | fabric-lifecycle-events-v1                                   | fabric-lifecycle-events-v1.client.mixins.json, fabric-lifecycle-events-v1.mixins.json
+    /META-INF/jars/fabric-networking-api-v1-1.3.8+b3afc78b82.jar             | fabric-networking-api-v1                                     | fabric-networking-api-v1.mixins.json, fabric-networking-api-v1.client.mixins.json
+    /META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d82.jar           | fabric-resource-loader-v0                                    | fabric-resource-loader-v0.mixins.json, fabric-resource-loader-v0.client.mixins.json
+walljump-fabric-1.20.1-1.4.4.jar                                             | walljump                                                     | walljump.mixins.json
+    /META-INF/jars/fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar          | fabric-language-kotlin                                       | 
+        /META-INF/jars/atomicfu-jvm-0.22.0.jar                               | org_jetbrains_kotlinx_atomicfu-jvm                           | 
+        /META-INF/jars/kotlin-reflect-1.9.10.jar                             | org_jetbrains_kotlin_kotlin-reflect                          | 
+        /META-INF/jars/kotlin-stdlib-1.9.10.jar                              | org_jetbrains_kotlin_kotlin-stdlib                           | 
+        /META-INF/jars/kotlin-stdlib-jdk7-1.9.10.jar                         | org_jetbrains_kotlin_kotlin-stdlib-jdk7                      | 
+        /META-INF/jars/kotlin-stdlib-jdk8-1.9.10.jar                         | org_jetbrains_kotlin_kotlin-stdlib-jdk8                      | 
+        /META-INF/jars/kotlinx-coroutines-core-jvm-1.7.3.jar                 | org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm            | 
+        /META-INF/jars/kotlinx-coroutines-jdk8-1.7.3.jar                     | org_jetbrains_kotlinx_kotlinx-coroutines-jdk8                | 
+        /META-INF/jars/kotlinx-datetime-jvm-0.4.0.jar                        | org_jetbrains_kotlinx_kotlinx-datetime-jvm                   | 
+        /META-INF/jars/kotlinx-serialization-cbor-jvm-1.6.0.jar              | org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm         | 
+        /META-INF/jars/kotlinx-serialization-core-jvm-1.6.0.jar              | org_jetbrains_kotlinx_kotlinx-serialization-core-jvm         | 
+        /META-INF/jars/kotlinx-serialization-json-jvm-1.6.0.jar              | org_jetbrains_kotlinx_kotlinx-serialization-json-jvm         | 
+    /META-INF/jars/keybind-fix-1.0.0.jar                                     | keybind_fix                                                  | keybind_fix.mixins.json
+    /META-INF/jars/owner-1.0.12.jar                                          | org_aeonbits_owner_owner                                     | 
+wardentools-2.5.0+mc1.20.1.jar                                               | wardentools                                                  | 
+waterballoon-fabric-1.20.1-1.0.1.jar                                         | waterballoon                                                 | regutils-ofhj0pz-com-nyfaria-waterballoon-registration.mixins.json, waterballoon.mixins.json
+wetlands-1.2-1.20.1.jar                                                      | wetlands                                                     | wetlands.mixins.json
+WI-Zoom-1.6-MC1.20.1.jar                                                     | wi_zoom                                                      | wi-zoom.mixins.json
+winterly-0.9.3+1.20.jar                                                      | winterly                                                     | winterly.mixins.json
+    /META-INF/jars/cardinal-components-world-5.2.1.jar                       | cardinal-components-world                                    | mixins.cardinal_components_world.json
+wizards-1.3.0+1.20.1.jar                                                     | wizards                                                      | wizards.mixins.json
+    /META-INF/jars/TinyConfig-2.3.2.jar                                      | com_github_zsoltmolnarrr_tinyconfig                          | 
+    /META-INF/jars/structure-pool-api-1.0+1.20.1.jar                         | structure_pool_api                                           | structure_pool.mixins.json
+wraith-waystones-3.3.3+mc1.20.1.jar                                          | fwaystones                                                   | fwaystones.mixins.json
+    /META-INF/jars/owo-sentinel-0.11.0+1.20.jar                              | owo-sentinel                                                 | 
+wthit-fabric-8.16.3.jar                                                      | wthit                                                        | wthit.mixins.json
+xaerominimap-fabric-1.20.1-25.3.12.jar                                       | xaerominimap                                                 | xaerohud.mixins.json, xaerohud.fabric.mixins.json, xaerominimap.fabric.mixins.json, xaerominimap.mixins.json
+    /META-INF/jars/xaerolib-fabric-1.20.1-1.1.15.jar                         | xaerolib                                                     | xaerolib.fabric.mixins.json, xaerolib.mixins.json
+xaeroworldmap-fabric-1.20.1-1.40.16.jar                                      | xaeroworldmap                                                | xaeroworldmap.mixins.json, xaeroworldmap.fabric.mixins.json
+    /META-INF/jars/xaerolib-fabric-1.20.1-1.1.15.jar                         | xaerolib                                                     | xaerolib.fabric.mixins.json, xaerolib.mixins.json
+YeehawTowns-1.0.1-1.20.1-fabric.jar                                          | yeehaw_towns                                                 | 
+yet-another-furniture-1.0pre3+fabric-1.20.1.jar                              | yaf                                                          | yaf.mixins.json, yaf-common.mixins.json
+    /META-INF/jars/midnightlib-1.4.1-fabric.jar                              | midnightlib                                                  | midnightlib.mixins.json
+yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar                            | yet_another_config_lib_v3                                    | yacl.mixins.json, yacl-fabric.mixins.json
+    /META-INF/jars/common-image-3.12.0.jar                                   | com_twelvemonkeys_common_common-image                        | 
+    /META-INF/jars/common-io-3.12.0.jar                                      | com_twelvemonkeys_common_common-io                           | 
+    /META-INF/jars/common-lang-3.12.0.jar                                    | com_twelvemonkeys_common_common-lang                         | 
+    /META-INF/jars/gson-0.2.1.jar                                            | org_quiltmc_parsers_gson                                     | 
+    /META-INF/jars/imageio-core-3.12.0.jar                                   | com_twelvemonkeys_imageio_imageio-core                       | 
+    /META-INF/jars/imageio-metadata-3.12.0.jar                               | com_twelvemonkeys_imageio_imageio-metadata                   | 
+    /META-INF/jars/imageio-webp-3.12.0.jar                                   | com_twelvemonkeys_imageio_imageio-webp                       | 
+    /META-INF/jars/json-0.2.1.jar                                            | org_quiltmc_parsers_json                                     | 
+YungsApi-1.20-Fabric-4.0.6.jar                                               | yungsapi                                                     | yungsapi.mixins.json, yungsapi_fabric.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+    /META-INF/jars/javassist-3.29.2-GA.jar                                   | org_javassist_javassist                                      | 
+YungsBetterCaves-1.20.1-Fabric-2.0.5.jar                                     | bettercaves                                                  | bettercaves.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar                               | betterdeserttemples                                          | betterdeserttemples.mixins.json, betterdeserttemples_fabric.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterDungeons-1.20-Fabric-4.0.4.jar                                    | betterdungeons                                               | betterdungeons_fabric.mixins.json, betterdungeons.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterEndIsland-1.20-Fabric-2.0.6.jar                                   | betterendisland                                              | betterendisland_fabric.mixins.json, betterendisland.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar                               | betterjungletemples                                          | betterjungletemples.mixins.json, betterjungletemples_fabric.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterMineshafts-1.20-Fabric-4.0.4.jar                                  | bettermineshafts                                             | bettermineshafts_fabric.mixins.json, bettermineshafts.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar                            | betterfortresses                                             | betterfortresses_fabric.mixins.json, betterfortresses.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar                              | betteroceanmonuments                                         | betteroceanmonuments_fabric.mixins.json, betteroceanmonuments.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterStrongholds-1.20-Fabric-4.0.3.jar                                 | betterstrongholds                                            | betterstrongholds_fabric.mixins.json, betterstrongholds.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar                                   | betterwitchhuts                                              | betterwitchhuts_fabric.mixins.json, betterwitchhuts.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsBridges-1.20-Fabric-4.0.3.jar                                           | yungsbridges                                                 | yungsbridges.mixins.json, yungsbridges_fabric.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar                                      | yungscavebiomes                                              | yungscavebiomes_fabric.mixins.json, yungscavebiomes.mixins.json
+    /META-INF/jars/reflections-0.10.2.jar                                    | org_reflections_reflections                                  | 
+zenith_attributes-0.2.10.jar                                                 | zenith_attributes                                            | zenith_attributes.mixins.json
+    /META-INF/jars/AdditionalEntityAttributes-1.7.6+1.20.1.jar               | additionalentityattributes                                   | additionalentityattributes.mixins.json
+    /META-INF/jars/PlayerAbilityLib-1.8.0.jar                                | playerabilitylib                                             | mixins.playerabilitylib.common.json
+    /META-INF/jars/attributes-2.3.4+1.20.1.jar                               | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.4+1.20.1.jar                     | porting_lib_core                                             | 
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+    /META-INF/jars/cardinal-components-base-5.2.2.jar                        | cardinal-components-base                                     | 
+    /META-INF/jars/cardinal-components-entity-5.2.2.jar                      | cardinal-components-entity                                   | mixins.cardinal_components_entity.json
+    /META-INF/jars/common-2.3.4+1.20.1.jar                                   | porting_lib_common                                           | porting_lib_common.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.4+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/entity-2.3.4+1.20.1.jar                                   | porting_lib_entity                                           | porting_lib_entity.mixins.json
+        /META-INF/jars/porting_lib_mixin_extensions-2.3.4+1.20.1.jar         | porting_lib_mixin_extensions                                 | porting_lib_mixin_extensions.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.4+1.20.1.jar                     | porting_lib_core                                             | 
+    /META-INF/jars/extensions-2.3.4+1.20.1.jar                               | porting_lib_extensions                                       | porting_lib_extensions.mixins.json
+        /META-INF/jars/porting_lib_accessors-2.3.4+1.20.1.jar                | porting_lib_accessors                                        | porting_lib_accessors.mixins.json
+        /META-INF/jars/porting_lib_attributes-2.3.4+1.20.1.jar               | porting_lib_attributes                                       | porting_lib_attributes.mixins.json
+        /META-INF/jars/porting_lib_common-2.3.4+1.20.1.jar                   | porting_lib_common                                           | porting_lib_common.mixins.json
+        /META-INF/jars/porting_lib_core-2.3.4+1.20.1.jar                     | porting_lib_core                                             | 
+        /META-INF/jars/reach-entity-attributes-2.4.0.jar                     | reach-entity-attributes                                      | mixins.reach-entity-attributes.json
+    /META-INF/jars/reach-entity-attributes-2.4.0.jar                         | reach-entity-attributes                                      | mixins.reach-entity-attributes.json

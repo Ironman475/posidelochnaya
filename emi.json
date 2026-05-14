@@ -1,0 +1,31 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:wardentools:warden_helmet{Damage:0}",
+    "item:elemental_wizards_rpg:staff_netherite_aqua{Damage:0}",
+    "item:archeologyplus:fright_pottery_sherd",
+    "item:berserker_rpg:netherite_berserker_axe{Damage:0}",
+    "item:archers:netherite_spear{Damage:0}",
+    "item:aquamirae:abyssal_heaume{Damage:0}",
+    "item:dragonloot:dragon_chestplate{Damage:0}",
+    "item:lne_archers:ender_dragon_bow{Damage:0}",
+    "item:lne_archers:ender_dragon_rapid_crossbow{Damage:0}",
+    "item:mythicupgrades:ruby_pickaxe{Damage:0}",
+    "item:mythicupgrades:ruby_ingot",
+    "item:mythicupgrades:necoium_ingot",
+    "item:mythicupgrades:ametrine_pickaxe{Damage:0}",
+    "item:mythicmetals:metallurgium_helmet{Damage:0}",
+    "item:mythicmetals:metallurgium_ingot",
+    "item:mythicmetals:unobtainium",
+    "item:mythicmetals:celestium_anvil",
+    "item:mythicmetals:celestium_ingot"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
