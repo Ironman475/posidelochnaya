@@ -1,0 +1,378 @@
+{
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_calendar": {
+    "criteria": {
+      "has_clock": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-15 17:02:06 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_graveyard_bosses": {
+    "criteria": {
+      "info_graveyard_bosses": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-15 17:02:06 +0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_souls_bosses": {
+    "criteria": {
+      "info_souls_bosses": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_spellblade_bosses": {
+    "criteria": {
+      "info_spellblade_bosses": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:plushables/root": {
+    "criteria": {
+      "root": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2026-05-15 17:01:51 +0300",
+      "minecraft:forest": "2026-05-15 17:15:00 +0300",
+      "wilderwild:semi_birch_forest": "2026-05-15 17:14:57 +0300"
+    },
+    "done": false
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/tinted_greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_vanilla_bosses": {
+    "criteria": {
+      "info_vanilla_bosses": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:clutter/root": {
+    "criteria": {
+      "requirement": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "rewards:rewards": {
+    "criteria": {
+      "january": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-05-15 17:01:13 +0300",
+      "inv_changed-diamond": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:grant_book_on_first_join": {
+    "criteria": {
+      "amethyst_imbuement:give_if_config": "2026-05-15 17:01:08 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/crop_season_tester": {
+    "criteria": {
+      "has_iron": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-15 17:02:06 +0300"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2026-05-15 17:01:51 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "darkbosses:root": {
+    "criteria": {
+      "darkbosses_info_extras": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-05-15 17:01:38 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-05-15 17:01:13 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

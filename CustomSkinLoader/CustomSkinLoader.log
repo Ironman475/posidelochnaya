@@ -1,183 +1,24 @@
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.24
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.8, Eclipse Adoptium
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\CustomSkinLoader.json
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.24
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 33
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2026-05-14 19:21:39] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2026-05-14 19:21:39] [4DarkSide75/INFO] [CustomSkinLoader Core]: Loading 4DarkSide75's profile.
-[2026-05-14 19:21:39] [4DarkSide75/INFO] [CustomSkinLoader Core]: 1/13 Try to load profile from 'Mojang'.
-[2026-05-14 19:21:39] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2026-05-14 19:21:39] [4DarkSide75/INFO] [CustomSkinLoader Core]: Payload: ["4DarkSide75"]
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 77)
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Content: [ {
-  "id" : "96e9c8ff850a40e089fc19fcf5868a6d",
-  "name" : "4DarkSide75"
-} ]
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/96e9c8ff850a40e089fc19fcf5868a6d'.
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 545)
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 545 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\1871ef0f1e54f9676f35231f343eca38f7d6af13' , Expire: 1778775720)
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "96e9c8ff850a40e089fc19fcf5868a6d",
-  "name" : "4DarkSide75",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc3NTkzMDk3MywKICAicHJvZmlsZUlkIiA6ICI5NmU5YzhmZjg1MGE0MGUwODlmYzE5ZmNmNTg2OGE2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICI0RGFya1NpZGU3NSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMmM3MGUyNmFlZDc3ZjhmMDMzNDAxN2QwMzdjYmQ1MDUwYTIyYTkzN2Q2NTkzOGY4ODkyOWM1Y2QxMTBmMWFmIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-14 19:21:40] [4DarkSide75/INFO] [CustomSkinLoader Core]: 2/13 Try to load profile from 'LittleSkin'.
-[2026-05-14 19:21:40] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/4DarkSide75.json'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\928c5485371aa4dd11be352c0cd7d680c9c3162a' , Expire: 1778775792)
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: 3/13 Try to load profile from 'BlessingSkin'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/4DarkSide75.json'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: 4/13 Try to load profile from 'ElyBy'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/4DarkSide75'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 500)
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: 5/13 Try to load profile from 'SkinMe'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/4DarkSide75.json'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/4DarkSide75.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: 6/13 Try to load profile from 'TLauncher'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/4DarkSide75'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\f0f22a4cd363fc576797c1c96f263cd27842ebf5' , Expire: 1778775794)
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/a2c70e26aed77f8f0334017d037cbd5050a22a937d65938f88929c5cd110f1af"}}
-[2026-05-14 19:21:41] [4DarkSide75/INFO] [CustomSkinLoader Core]: 7/13 Try to load profile from 'GlitchlessGames'.
-[2026-05-14 19:21:41] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=4DarkSide75'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: 8/13 Try to load profile from 'LocalSkin'.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: 9/13 Try to load profile from 'MinecraftCapes'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/96e9c8ff850a40e089fc19fcf5868a6d'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\6f4800da408dc1d29c826bf8a4b2bb315a0f1fc4' , Expire: 0)
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\6f4800da408dc1d29c826bf8a4b2bb315a0f1fc4'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: 10/13 Try to load profile from 'OptiFine'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/4DarkSide75.png'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Loading 4DarkSide75's profile.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 1/13 Try to load profile from 'Mojang'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/96e9c8ff850a40e089fc19fcf5868a6d'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 545 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\1871ef0f1e54f9676f35231f343eca38f7d6af13' , Expire: 1778775720)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\1871ef0f1e54f9676f35231f343eca38f7d6af13'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "96e9c8ff850a40e089fc19fcf5868a6d",
-  "name" : "4DarkSide75",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc3NTkzMDk3MywKICAicHJvZmlsZUlkIiA6ICI5NmU5YzhmZjg1MGE0MGUwODlmYzE5ZmNmNTg2OGE2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICI0RGFya1NpZGU3NSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMmM3MGUyNmFlZDc3ZjhmMDMzNDAxN2QwMzdjYmQ1MDUwYTIyYTkzN2Q2NTkzOGY4ODkyOWM1Y2QxMTBmMWFmIgogICAgfQogIH0KfQ=="
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 2/13 Try to load profile from 'LittleSkin'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/4DarkSide75.json'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 2 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\928c5485371aa4dd11be352c0cd7d680c9c3162a' , Expire: 1778775792)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\928c5485371aa4dd11be352c0cd7d680c9c3162a'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 3/13 Try to load profile from 'BlessingSkin'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/4DarkSide75.json'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: 11/13 Try to load profile from 'Wynntils'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"96e9c8ff-850a-40e0-89fc-19fcf5868a6d"}
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 4/13 Try to load profile from 'ElyBy'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/4DarkSide75'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:42] [4DarkSide75/INFO] [CustomSkinLoader Core]: 12/13 Try to load profile from 'CloakPlus'.
-[2026-05-14 19:21:42] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/4DarkSide75.png'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 500)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 5/13 Try to load profile from 'SkinMe'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/4DarkSide75.json'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/4DarkSide75.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 6/13 Try to load profile from 'TLauncher'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/4DarkSide75'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 121 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\f0f22a4cd363fc576797c1c96f263cd27842ebf5' , Expire: 1778775794)
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\f0f22a4cd363fc576797c1c96f263cd27842ebf5'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/a2c70e26aed77f8f0334017d037cbd5050a22a937d65938f88929c5cd110f1af"}}
-[2026-05-14 19:21:42] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 7/13 Try to load profile from 'GlitchlessGames'.
-[2026-05-14 19:21:42] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=4DarkSide75'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 8/13 Try to load profile from 'LocalSkin'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 9/13 Try to load profile from 'MinecraftCapes'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/96e9c8ff850a40e089fc19fcf5868a6d'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\6f4800da408dc1d29c826bf8a4b2bb315a0f1fc4' , Expire: 0)
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Dark\curseforge\minecraft\Instances\DarkRPG - RPG with Magic Origins Quests Adventure (1)\CustomSkinLoader\caches\6f4800da408dc1d29c826bf8a4b2bb315a0f1fc4'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 10/13 Try to load profile from 'OptiFine'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/4DarkSide75.png'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 11/13 Try to load profile from 'Wynntils'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"96e9c8ff-850a-40e0-89fc-19fcf5868a6d"}
-[2026-05-14 19:21:43] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:43] [4DarkSide75/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:43] [4DarkSide75/INFO] [CustomSkinLoader Core]: 13/13 Try to load profile from 'Cosmetica'.
-[2026-05-14 19:21:43] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=4DarkSide75&uuid=96e9c8ff-850a-40e0-89fc-19fcf5868a6d&nothirdparty'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-05-14 19:21:43] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 12/13 Try to load profile from 'CloakPlus'.
-[2026-05-14 19:21:43] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/4DarkSide75.png'.
-[2026-05-14 19:21:44] [4DarkSide75/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-05-14 19:21:44] [4DarkSide75/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:44] [4DarkSide75/INFO] [CustomSkinLoader Core]: 4DarkSide75's profile loaded.
-[2026-05-14 19:21:44] [4DarkSide75/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/a2c70e26aed77f8f0334017d037cbd5050a22a937d65938f88929c5cd110f1af , Model: default , CapeUrl: null  , Expiry: 1778775734)
-[2026-05-14 19:21:44] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-05-14 19:21:44] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:44] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 13/13 Try to load profile from 'Cosmetica'.
-[2026-05-14 19:21:44] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=4DarkSide75&uuid=96e9c8ff-850a-40e0-89fc-19fcf5868a6d&nothirdparty'.
-[2026-05-14 19:21:44] [4DarkSide75's skull/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-05-14 19:21:44] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-05-14 19:21:44] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: 4DarkSide75's profile loaded.
-[2026-05-14 19:21:44] [4DarkSide75's skull/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/a2c70e26aed77f8f0334017d037cbd5050a22a937d65938f88929c5cd110f1af , Model: default , CapeUrl: null  , Expiry: 1778775734)
+[2026-05-15 17:23:48] [main/INFO] [CustomSkinLoader Core]: "version.json": jar:file:/C:/Users/Dark/curseforge/minecraft/Install/versions/fabric-loader-0.19.2-1.20.1/fabric-loader-0.19.2-1.20.1.jar!/version.json
+[2026-05-15 17:23:48] [main/INFO] [CustomSkinLoader Core]: MinecraftVersion: {name='1.20.1', world_version='3465', protocol_version='763'}
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_355, mixin: customskinloader.mixin.MixinGuiPlayerTabOverlay, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_760, mixin: customskinloader.mixin.MixinIImageBuffer, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_3298, mixin: customskinloader.mixin.MixinIResource, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_3300, mixin: customskinloader.mixin.MixinIResourceManager, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_972, mixin: customskinloader.mixin.MixinLayerCape, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_310, mixin: customskinloader.mixin.MixinMinecraft, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1011, mixin: customskinloader.mixin.MixinNativeImage, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1007, mixin: customskinloader.mixin.MixinRenderPlayer, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_2960, mixin: customskinloader.mixin.MixinResourceLocation, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$1, mixin: customskinloader.mixin.MixinSkinManager$1, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$class_8686, mixin: customskinloader.mixin.MixinSkinManager$CacheKey, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$class_8687, mixin: customskinloader.mixin.MixinSkinManager$TextureCache$V1, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$class_8687, mixin: customskinloader.mixin.MixinSkinManager$TextureCache$V2, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V1, result: true
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V2, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V3, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V4, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V5, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V6, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_10538, mixin: customskinloader.mixin.MixinSkinTextureDownloader, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageData$V1, result: false
+[2026-05-15 17:23:50] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageData$V2, result: true
