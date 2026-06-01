@@ -1,0 +1,40 @@
+Detected that Windows has terminated one or more processes within the last minute leading up to the moment of the current Minecraft JVM instance termination,
+so with a very high probability that one of these processes is the Minecraft JVM itself.
+Command used to identify terminated processes:
+ 
+$ErrorActionPreference = 'Continue'; 
+Get-WinEvent -FilterHashtable @{ 
+  LogName='Application'; 
+  Level=2; 
+  StartTime=(Get-Date).AddSeconds(-15) 
+} *>&1 | Format-Table -Wrap -AutoSize | Out-File "C:\Users\Dark\AppData\Local\Temp\win_event1780337420469.txt" -Encoding UTF8
+ 
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To get more information about such errors:
+1) Open Windows Event Viewer (Win+R -> eventvwr.msc -> Enter).
+2) Click "Windows Logs" -> "Application".
+3) Look for the latest Error you have.
+ 
+ ﻿
+
+   ProviderName: Application Error
+
+TimeCreated           Id LevelDisplayName Message                                                                      
+-----------           -- ---------------- -------                                                                      
+6/1/2026 9:10:15 PM 1000 Ошибка           Имя сбойного приложения: warp-svc.exe, версия: 2026.1.0.0, метка времени:    
+                                          0x699cdea2                                                                   
+                                          Имя сбойного модуля: warp-svc.exe, версия: 2026.1.0.0, метка времени:        
+                                          0x699cdea2                                                                   
+                                          Код исключения: 0xc0000409                                                   
+                                          Смещение ошибки: 0x00000000022e99a7                                          
+                                          Идентификатор сбойного процесса: 0x1EC0                                      
+                                          Время запуска сбойного приложения: 0x1DCEC4226F4B121                         
+                                          Путь сбойного приложения: C:\Program Files\Cloudflare\Cloudflare             
+                                          WARP\warp-svc.exe                                                            
+                                          Путь сбойного модуля: C:\Program Files\Cloudflare\Cloudflare                 
+                                          WARP\warp-svc.exe                                                            
+                                          Идентификатор отчета: 21641683-7ecf-4368-98eb-7473aaf26b79                   
+                                          Полное имя сбойного пакета:                                                  
+                                          Код приложения, связанного со сбойным пакетом:                               
+
+

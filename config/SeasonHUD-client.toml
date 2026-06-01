@@ -68,6 +68,18 @@
 		#Default is true.
 		enable_minimap_integration = true
 
+		[SeasonHUD.Minimap.Journeymap]
+			#Display the season above the JourneyMap minimap, instead of below
+			#(true/false)
+			#Default is false.
+			enable_above_map = false
+			#Toggle for macOS retina display scaling when using JourneyMap.
+			#Enable this us using a retina display and the season line is
+			#rendering around the halfway point of the screen.
+			#(true/false)
+			#Default is false.
+			enable_macOS = false
+
 	[SeasonHUD.Season]
 		#Show the Tropical season (Wet/Dry) while in Tropical Biomes.
 		#This will not change the season behavior in the biomes, just

@@ -1,0 +1,1 @@
+{"jarName":"Big Globe-4.11.1-MC1.20.1.jar","modId":"bigglobe","version":"4.11.1","mixinConfigs":["bigglobe.mixins.json"],"jarJarMods":[{"jarName":"autocodec-5.0.0.jar","modId":"builderb0y_autocodec","version":"5.0.0","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

@@ -1,6 +1,15 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:apocalypse_origins:hexaltar2",
+    "item:consularsorigins:coffin",
+    "item:apocalypse_origins:x_block",
+    "item:createfood:chocolate_fudge",
+    "#item:c:salad_ingredients",
+    "item:createfood:cheese_and_beef_bun_bacon_lettuce_tomato",
+    "item:alexsmobs:animal_dictionary",
+    "item:amethyst_imbuement:glistering_tome",
+    "item:minecraft:bundle{Items:[{Count:1b,id:\"minecraft:stone_sword\"},{Count:1b,id:\"minecraft:leather_boots\"},{Count:1b,id:\"minecraft:torch\"},{Count:9b,id:\"minecraft:apple\"},{Count:7b,id:\"minecraft:bread\"}],display:{Name:\u0027{\"bold\":true,\"italic\":false,\"color\":\"blue\",\"text\":\"Login Rewards\"}\u0027}}",
     "item:wardentools:warden_helmet{Damage:0}",
     "item:elemental_wizards_rpg:staff_netherite_aqua{Damage:0}",
     "item:archeologyplus:fright_pottery_sherd",

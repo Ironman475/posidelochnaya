@@ -109,6 +109,20 @@
     "wetlands:large_mechanism",
     "wetlands:big_pipes",
     "wetlands:medium_cisterns",
-    "wetlands:large_cisterns"
+    "wetlands:large_cisterns",
+    "dungeons_arise:mechanical_nest",
+    "amethyst_imbuement:witch_house",
+    "bigglobe:water_lake",
+    "bigglobe:windmill",
+    "bigglobe:medium_house",
+    "bigglobe:vanilla/village_plains",
+    "bigglobe:obelisk",
+    "bigglobe:large_house",
+    "bigglobe:nether_pillars/extra",
+    "bigglobe:underground_pockets/nether_lava",
+    "bettermineshafts:mineshaft_dripstone",
+    "loot_n_explore:glaze_tower",
+    "bettermineshafts:mineshaft_lush",
+    "additionalstructures:flotsam_3"
   ]
 }

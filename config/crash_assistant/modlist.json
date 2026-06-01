@@ -519,11 +519,6 @@
     "modId": "darkloot",
     "version": "1.2.6"
   },
-  "darkmenu-fabric-1.20.1-1.1.9.jar": {
-    "jarName": "darkmenu-fabric-1.20.1-1.1.9.jar",
-    "modId": "darkmenu",
-    "version": "1.1.9"
-  },
   "darkmining-fabric-1.20.1-1.1.8.jar": {
     "jarName": "darkmining-fabric-1.20.1-1.1.8.jar",
     "modId": "darkmining",
@@ -624,10 +619,10 @@
     "modId": "emi",
     "version": "1.1.22+1.20.1+fabric"
   },
-  "emi_loot-0.7.6+1.20.1+fabric.jar": {
-    "jarName": "emi_loot-0.7.6+1.20.1+fabric.jar",
+  "emi_loot-0.7.9+1.20.1+fabric.jar": {
+    "jarName": "emi_loot-0.7.9+1.20.1+fabric.jar",
     "modId": "emi_loot",
-    "version": "0.7.6+1.20.1+fabric"
+    "version": "0.7.9+1.20.1+fabric"
   },
   "emitrades-fabric-1.2.1+mc1.20.1.jar": {
     "jarName": "emitrades-fabric-1.2.1+mc1.20.1.jar",
@@ -659,10 +654,20 @@
     "modId": "epherolib",
     "version": "1.2.0"
   },
+  "epicterrain-0.2.5.jar": {
+    "jarName": "epicterrain-0.2.5.jar",
+    "modId": "mr_epicterrain",
+    "version": "0.2.5"
+  },
   "eternal_attributes-fabric-1.0.0-1.20.1.jar": {
     "jarName": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
     "modId": "eternal_attributes",
     "version": "1.0.0"
+  },
+  "expandeddelight-0.3.2.jar": {
+    "jarName": "expandeddelight-0.3.2.jar",
+    "modId": "expandeddelight",
+    "version": "0.3.2"
   },
   "ExplorersCompass-1.20.1-2.2.3-fabric.jar": {
     "jarName": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
@@ -684,10 +689,10 @@
     "modId": "extraorigins",
     "version": "1.20-8"
   },
-  "extraspellattributes-1.2.11.jar": {
-    "jarName": "extraspellattributes-1.2.11.jar",
+  "extraspellattributes-1.3.2.jar": {
+    "jarName": "extraspellattributes-1.3.2.jar",
     "modId": "extraspellattributes",
-    "version": "1.2.11"
+    "version": "1.3.2"
   },
   "extrasponges-1.5.0.jar": {
     "jarName": "extrasponges-1.5.0.jar",
@@ -698,11 +703,6 @@
     "jarName": "fabric-api-0.92.9+1.20.1.jar",
     "modId": "fabric-api",
     "version": "0.92.9+1.20.1"
-  },
-  "fabric-carpet-1.20-1.4.112+v230608.jar": {
-    "jarName": "fabric-carpet-1.20-1.4.112+v230608.jar",
-    "modId": "carpet",
-    "version": "1.4.112+v230608"
   },
   "fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar": {
     "jarName": "fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
@@ -944,6 +944,11 @@
     "modId": "jewelry",
     "version": "1.3.7+1.20.1"
   },
+  "journeymap-1.20.1-5.9.15-fabric.jar": {
+    "jarName": "journeymap-1.20.1-5.9.15-fabric.jar",
+    "modId": "journeymap",
+    "version": "5.9.15"
+  },
   "kevslibrary-1.1.2.jar": {
     "jarName": "kevslibrary-1.1.2.jar",
     "modId": "kevslibrary",
@@ -1114,6 +1119,16 @@
     "modId": "mcdw",
     "version": "9.0.4"
   },
+  "mcw-bridges-3.1.2-mc1.20.1fabric.jar": {
+    "jarName": "mcw-bridges-3.1.2-mc1.20.1fabric.jar",
+    "modId": "mcwbridges",
+    "version": "3.1.2"
+  },
+  "mcw-doors-1.1.5-mc1.20.1fabric.jar": {
+    "jarName": "mcw-doors-1.1.5-mc1.20.1fabric.jar",
+    "modId": "mcwdoors",
+    "version": "1.1.5"
+  },
   "mcw-fences-1.1.2-mc1.20.1fabric.jar": {
     "jarName": "mcw-fences-1.1.2-mc1.20.1fabric.jar",
     "modId": "mcwfences",
@@ -1123,6 +1138,31 @@
     "jarName": "mcw-furniture-3.2.2-mc1.20.1fabric.jar",
     "modId": "mcwfurnitures",
     "version": "3.2.2"
+  },
+  "mcw-lights-1.1.5-mc1.20.1fabric.jar": {
+    "jarName": "mcw-lights-1.1.5-mc1.20.1fabric.jar",
+    "modId": "mcwlights",
+    "version": "1.1.5"
+  },
+  "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar": {
+    "jarName": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
+    "modId": "mcwstairs",
+    "version": "1.0.2"
+  },
+  "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar": {
+    "jarName": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
+    "modId": "mcwwindows",
+    "version": "2.4.2"
+  },
+  "mcw-roofs-2.3.2-mc1.20.1fabric.jar": {
+    "jarName": "mcw-roofs-2.3.2-mc1.20.1fabric.jar",
+    "modId": "mcwroofs",
+    "version": "2.3.2"
+  },
+  "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar": {
+    "jarName": "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
+    "modId": "mcwtrpdoors",
+    "version": "1.1.5"
   },
   "Medieval Origins Revival-6.6.0+1.20.1-fabric.jar": {
     "jarName": "Medieval Origins Revival-6.6.0+1.20.1-fabric.jar",
@@ -1329,10 +1369,10 @@
     "modId": "particle_core",
     "version": "0.2.6+1.20.1"
   },
-  "Patchouli-1.20.1-84-FABRIC.jar": {
-    "jarName": "Patchouli-1.20.1-84-FABRIC.jar",
+  "Patchouli-1.20.1-85-FABRIC.jar": {
+    "jarName": "Patchouli-1.20.1-85-FABRIC.jar",
     "modId": "patchouli",
-    "version": "1.20.1-84-FABRIC"
+    "version": "1.20.1-85-FABRIC"
   },
   "Pehkui-3.8.3+1.14.4-1.21.jar": {
     "jarName": "Pehkui-3.8.3+1.14.4-1.21.jar",
@@ -1449,11 +1489,6 @@
     "modId": "rpgmana",
     "version": "1.0.8.2"
   },
-  "RUExpansion-1.0.1+1.20.1.jar": {
-    "jarName": "RUExpansion-1.0.1+1.20.1.jar",
-    "modId": "ru_expansion",
-    "version": "1.0.1"
-  },
   "runes-0.9.13+1.20.1.jar": {
     "jarName": "runes-0.9.13+1.20.1.jar",
     "modId": "runes",
@@ -1474,10 +1509,10 @@
     "modId": "searchables",
     "version": "1.0.3"
   },
-  "seasonhud-fabric-1.20.1-2.0.5.jar": {
-    "jarName": "seasonhud-fabric-1.20.1-2.0.5.jar",
+  "seasonhud-fabric-1.20.1-2.0.0.jar": {
+    "jarName": "seasonhud-fabric-1.20.1-2.0.0.jar",
     "modId": "seasonhud",
-    "version": "2.0.5"
+    "version": "2.0.0"
   },
   "servercore-fabric-1.5.2+1.20.1.jar": {
     "jarName": "servercore-fabric-1.5.2+1.20.1.jar",
@@ -1564,10 +1599,10 @@
     "modId": "spell_power",
     "version": "0.12.0+1.20.1"
   },
-  "spellbladenext-1.20.4.jar": {
-    "jarName": "spellbladenext-1.20.4.jar",
+  "spellbladenext-2.4.0+1.20.1.jar": {
+    "jarName": "spellbladenext-2.4.0+1.20.1.jar",
     "modId": "spellbladenext",
-    "version": "1.20.4"
+    "version": "2.4.0+1.20.1"
   },
   "starlight-1.1.2+fabric.dbc156f.jar": {
     "jarName": "starlight-1.1.2+fabric.dbc156f.jar",
@@ -1608,11 +1643,6 @@
     "jarName": "thaumon-fabric-2.3.0+1.20.1.jar",
     "modId": "thaumon",
     "version": "2.3.0+1.20.1"
-  },
-  "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar": {
-    "jarName": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
-    "modId": "graveyard",
-    "version": "3.0"
   },
   "things-0.3.3+1.20.jar": {
     "jarName": "things-0.3.3+1.20.jar",
@@ -1828,11 +1858,6 @@
     "jarName": "wthit-fabric-8.16.3.jar",
     "modId": "wthit",
     "version": "8.16.3"
-  },
-  "xaeroworldmap-fabric-1.20.1-1.40.16.jar": {
-    "jarName": "xaeroworldmap-fabric-1.20.1-1.40.16.jar",
-    "modId": "xaeroworldmap",
-    "version": "1.40.16"
   },
   "yet-another-furniture-1.0pre3+fabric-1.20.1.jar": {
     "jarName": "yet-another-furniture-1.0pre3+fabric-1.20.1.jar",
